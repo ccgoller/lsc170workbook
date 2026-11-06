@@ -1,0 +1,65 @@
+---
+title: "Module 2: Introduction to the Article"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+We begin exploring the research article. You learn about the authors, background on malaria and *Delftia tsuruhatensis*, and how the study was developed to address the research questions.
+
+## Learning objectives
+
+By the end of this module, you should be able to:
+
+- Explain the introduction of the article in 3-5 sentences.
+- Identify the research question/goal the researchers had.
+- Summarize the methods and findings identified in the introduction.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("module-2-todo", ["Review the Delftia background before the first session", "Complete the in-class activity and submit individually", "Create a representation (flow chart? terminology list?) of the introduction and background"])
+```
+
+## Why this article?
+
+The paper, published in *Science* in 2023, describes a naturally occurring, non-genetically modified symbiotic bacterium, *D. tsuruhatensis* TC1, isolated from mosquitoes unable to sustain *Plasmodium falciparum* development.
+
+## Read the title in pieces
+
+Break the title into parts: organism, relationship, effect, and host.
+
+```{ojs}
+//| echo: false
+quiz("m2q1", "In the title, 'symbiont' means TC1 is…", ["A parasite of humans", "A microbe living in association with the mosquito", "A drug", "A virus"], 1, "A symbiont lives in association with a host.")
+```
+
+## Summarize the introduction in 3-5 sentences
+
+```{ojs}
+//| echo: false
+notes("m2-summary", "Write your summary here.")
+```
+
+## What is the research question?
+
+```{ojs}
+//| echo: false
+notes("m2-question", "State the research question or goal.")
+```
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("m2-reflect", "What terms do you still need to define?")
+```
+
+::: {.callout-note}
+Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+:::

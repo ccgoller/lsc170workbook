@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "LSC 170: Microbial Superheroes"
+  subtitle: "Course Workbook"
+  author: "LSC 170 Teaching Team"
+  favicon: images/logo.svg
+  sidebar:
+    logo: images/logo.svg
+    style: docked
+  chapters:
+    - index.qmd
+    - background.qmd
+    - module-1.qmd
+    - module-2.qmd
+    - module-3.qmd
+    - module-4.qmd
+    - module-5.qmd
+    - module-6.qmd
+    - module-7.qmd
+    - lab-module-1.qmd
+    - references.qmd
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    code-fold: true
+    number-sections: false

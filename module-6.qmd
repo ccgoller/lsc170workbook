@@ -1,0 +1,62 @@
+---
+title: "Module 6: Discussion and Implications"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+We integrate the whole study. You work with groups to discuss the findings, controls, assumptions and implications, and connect the results to the claims made in the introduction.
+
+## Learning objectives
+
+By the end of this module, you should be able to:
+
+- Discuss the findings of this study with peers.
+- Summarize the results, implications, and discussion in text and as a concept map.
+- Integrate the findings of the study with the methods used and claims made.
+- Situate the findings of the paper within the field of study.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("module-6-todo", ["Review the Delftia background before the first session", "Complete the in-class activity and submit before the end of the module", "Create a summary of the entire article and a concept map", "Write your own discussion for the article"])
+```
+
+## Return to the article
+
+Review the figures and consider the claims the authors made. Remember this study was published in *Science*, a prestigious journal. Consider the Editor's Summary: is it accurate?
+
+```{ojs}
+//| echo: false
+quiz("m6q1", "A strong discussion should…", ["Repeat the methods", "Tie findings back to the research question and note limitations", "Add new data", "List references only"], 1, "Connect findings to the claims and be candid about limits.")
+```
+
+## What were the main findings?
+
+```{ojs}
+//| echo: false
+notes("m6-findings", "Summarize the main findings and implications.")
+```
+
+## Are the results convincing?
+
+```{ojs}
+//| echo: false
+notes("m6-convincing", "What did the authors claim in the introduction? Are the results convincing? Why or why not?")
+```
+
+## Impact
+
+```{ojs}
+//| echo: false
+notes("m6-impact", "How will these findings impact the field and future studies?")
+```
+
+::: {.callout-note}
+Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+:::

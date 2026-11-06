@@ -1,0 +1,62 @@
+---
+title: "Module 7: Next Experiment Panel and Grant Proposal"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+This is the creative part of CREATE. You write your own next experiment to follow the ones in the paper — one that fills a gap or extends the paper. You discuss proposals with peers, review them as a grant panel, and submit a revised proposal.
+
+## Learning objectives
+
+By the end of this module, you should be able to:
+
+- Discuss your proposed studies with peers.
+- Summarize the implications of your proposed work.
+- Identify the strengths and weaknesses of your proposal.
+- Incorporate feedback to submit a revised grant proposal.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("module-7-todo", ["Review the Delftia Book before the first session", "Complete the in-class activity and submit individually", "Read the guidelines to improve your proposals", "Work on peer reviews and group projects", "Complete the funding form for each proposal you score"])
+```
+
+## Proposal outline
+
+Use these headings: **Gap**, **Hypothesis**, **Aims/Experiments**, **Controls and readouts**, **Expected results**, **Implications**, **Limitations**.
+
+```{ojs}
+//| echo: false
+quiz("m7q1", "Which makes the best next experiment?", ["One that repeats Figure 1", "One that tests a specific hypothesis addressing a gap", "One with no controls", "One unrelated to the paper"], 1, "Aim at a clear gap with a testable hypothesis.")
+```
+
+## My proposal draft
+
+```{ojs}
+//| echo: false
+notes("m7-draft", "Gap, hypothesis, experiment, controls, expected results.")
+```
+
+## Peer feedback received
+
+```{ojs}
+//| echo: false
+notes("m7-feedback", "Strengths, weaknesses, and how you will revise.")
+```
+
+## Revised proposal notes
+
+```{ojs}
+//| echo: false
+notes("m7-revised", "Record your revisions.")
+```
+
+::: {.callout-note}
+Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+:::
