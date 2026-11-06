@@ -5,16 +5,22 @@ project:
 book:
   title: "LSC 170: Microbial Superheroes"
   subtitle: "Course Workbook"
-  author: "LSC 170 Teaching Team"
-  favicon: images/logo.svg
+  author: "Carlos C. Goller"
+  favicon: "images/Microbial Superheroes course logo.png"
   sidebar:
-    logo: images/logo.svg
+    logo: "images/Microbial Superheroes course logo.png"
     style: docked
     search: true
   page-navigation: true
   repo-url: https://github.com/ccgoller/lsc170workbook
+  navbar:
+    left:
+      - icon: book
+        href: index.qmd
+        text: Home
   chapters:
     - index.qmd
+    - about.qmd
     - background.qmd
     - module-1.qmd
     - module-2.qmd
@@ -30,6 +36,7 @@ format:
   html:
     theme:
       light: [cosmo, styles.scss]
+      dark: [darkly, styles-dark.scss]
     toc: true
     toc-title: "On this page"
     toc-depth: 2
@@ -37,3 +44,6 @@ format:
     link-external-icon: false
     lang: en
     number-sections: false
+    search:
+      location: navbar
+      type: overlay

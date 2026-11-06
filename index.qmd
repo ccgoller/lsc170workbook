@@ -1,10 +1,12 @@
 # Welcome, Microbial Superheroes {.unnumbered}
 
-![](images/logo.svg){fig-alt="LSC 170 logo: a caped red microscope" width=180}
+![](images/Microbial%20Superheroes%20course%20logo.png){fig-alt="Course logo showing a red, caped microscope surrounded by microbes" width=240}
 
 This interactive workbook accompanies **LSC 170: Microbial Superheroes**. Each module uses
 the **C.R.E.A.T.E.** method to read and understand primary scientific literature,
 with the bacterium *Delftia* as our running example.
+
+Learn more about [the author](about.qmd).
 
 ::: {.callout-tip}
 ## How to use this book
