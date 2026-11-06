@@ -57,6 +57,17 @@ notes("m7-feedback", "Strengths, weaknesses, and how you will revise.")
 notes("m7-revised", "Record your revisions.")
 ```
 
+```{ojs}
+//| echo: false
+quiz("m7q2", "A strong follow-up proposal should…", ["Repeat the paper exactly", "Fill a gap or extend the findings with a testable question, controls and a readout", "Avoid stating a hypothesis", "Skip peer feedback"], 1, "Good proposals are testable and address a gap.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Proposals state a question, hypothesis, controls and readout.
+- Peer feedback helps you find strengths and weaknesses to revise.
+:::
+
 ::: {.callout-note}
 Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
 :::

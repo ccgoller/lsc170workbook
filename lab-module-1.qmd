@@ -39,3 +39,14 @@ notes("lab1-data", "Record your pipetting data and interpretation.")
 //| echo: false
 notes("lab1-charter", "Draft your team charter and communication plan.")
 ```
+
+```{ojs}
+//| echo: false
+quiz("lab1q2", "Why use an electronic or multichannel pipette?", ["They need no calibration", "They improve speed and consistency", "They replace PPE", "They sterilize samples"], 1, "They improve speed and reproducibility.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Always wear appropriate PPE.
+- Record pipetting data in your ELN and agree on a team charter.
+:::

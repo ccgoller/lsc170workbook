@@ -10,6 +10,9 @@ book:
   sidebar:
     logo: images/logo.svg
     style: docked
+    search: true
+  page-navigation: true
+  repo-url: https://github.com/ccgoller/lsc170workbook
   chapters:
     - index.qmd
     - background.qmd
@@ -28,5 +31,9 @@ format:
     theme:
       light: [cosmo, styles.scss]
     toc: true
-    code-fold: true
+    toc-title: "On this page"
+    toc-depth: 2
+    code-fold: false
+    link-external-icon: false
+    lang: en
     number-sections: false

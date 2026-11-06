@@ -49,6 +49,17 @@ notes("m5-figure", "Figure number, controls, readout, finding, assumptions, impl
 notes("m5-connect", "How do these results build on Figures 1-3?")
 ```
 
+```{ojs}
+//| echo: false
+quiz("m5q2", "Why connect later figures to earlier ones?", ["To skip the methods", "To see how the evidence builds into one argument", "To shorten the paper", "It is not useful"], 1, "Figures build on each other to support the claims.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Use the same Data Analysis Sheet approach for every remaining figure.
+- Link each new result back to Figures 1-3.
+:::
+
 ::: {.callout-note}
 Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
 :::

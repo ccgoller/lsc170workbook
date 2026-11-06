@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 // Palette taken from the course logo
-$cape-red: #B8191F;
-$charcoal: #4A4A4A;
+$cape-red: #A3151A;
+$charcoal: #3A3A3A;
 $ink: #1C1C1C;
 $cream: #F4EFE3;
 $star-gold: #E3B13B;
@@ -31,8 +31,27 @@ h1.title { color: $cape-red; }
 }
 .create-step h3 { color: $cape-red; margin-top: 0; }
 .quiz-q { background:#fff; border:2px dashed $charcoal; border-radius:10px; padding:.8rem 1rem; margin:1rem 0; }
-.quiz-q button, .quiz-q input[type=submit] { background:$cape-red; color:#fff; border:0; border-radius:20px; padding:.3rem 1rem; }
 .quiz-feedback { font-weight:700; margin-top:.4rem; }
 .quiz-feedback.ok { color:#1d7a3a; } .quiz-feedback.no { color:$cape-red; }
 details { background:#fff; border-left:6px solid $star-gold; padding:.5rem 1rem; margin:1rem 0; }
 summary { font-weight:700; color:$cape-red; cursor:pointer; }
+
+// Accessibility: visible focus, readable sizes, non-color cues, reduced motion
+:focus-visible { outline: 3px solid $ink; outline-offset: 2px; box-shadow: 0 0 0 5px $star-gold; }
+body { line-height: 1.7; font-size: 1.05rem; }
+.skip-link { position:absolute; left:-999px; }
+.skip-link:focus { left:1rem; top:1rem; z-index:9999; background:#fff; padding:.5rem 1rem; }
+fieldset.quiz-q { min-width:0; }
+.quiz-legend { font-size:1rem; font-weight:700; float:none; width:auto; padding:0 .4rem; margin-bottom:.4rem; }
+.quiz-option { display:block; padding:.35rem .25rem; cursor:pointer; }
+.quiz-option input { width:1.2rem; height:1.2rem; margin-right:.4rem; vertical-align:middle; }
+.quiz-feedback:empty { display:none; }
+.quiz-feedback { padding:.4rem .6rem; border-radius:6px; background:#fff; border:2px solid currentColor; }
+.checklist-progress { font-weight:700; margin-top:.5rem; }
+.notes-wrap { margin:1rem 0; }
+.notes-label { display:block; font-weight:700; margin-bottom:.3rem; }
+.notes-box { width:100%; border:2px solid $charcoal; border-radius:6px; padding:.5rem; background:#fff; color:$ink; }
+.notes-hint { color:$charcoal; }
+.takeaways { background:#fff; border:2px solid $charcoal; border-left:8px solid $star-gold; border-radius:8px; padding:.5rem 1rem; margin:1.5rem 0; }
+.takeaways h3 { margin-top:.3rem; font-size:1.2rem; }
+@media (prefers-reduced-motion: reduce) { * { transition:none !important; animation:none !important; scroll-behavior:auto !important; } }

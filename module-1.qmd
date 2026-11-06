@@ -76,6 +76,17 @@ quiz("m1q2", "Why is the genus called Delftia?", ["It was found in Delft, Nether
 notes("m1-consider", "What do you know about malaria, mosquitoes and symbiotic microbes?")
 ```
 
+```{ojs}
+//| echo: false
+quiz("m1q3", "Which step of C.R.E.A.T.E. involves sketching experiments and defining new terms?", ["Consider", "Read", "Elucidate hypotheses", "Think of the next experiment"], 1, "Reading in chunks includes sketching and defining terms.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- C.R.E.A.T.E. has five steps: Consider, Read, Elucidate hypotheses, Analyze and interpret data, Think of the next Experiment.
+- *Delftia* are aerobic, Gram-negative rods first found in Delft, Netherlands.
+:::
+
 ::: {.callout-note}
 Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
 :::
