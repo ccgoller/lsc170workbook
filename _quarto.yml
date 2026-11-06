@@ -44,6 +44,4 @@ format:
     link-external-icon: false
     lang: en
     number-sections: false
-    search:
-      location: navbar
-      type: overlay
+    search: true
