@@ -53,6 +53,17 @@ notes("m3-sketch", "For each method, list the variable, control, and readout.")
 notes("m3-reflect", "Which method was hardest to understand?")
 ```
 
+```{ojs}
+//| echo: false
+quiz("m3q2", "Which small molecule did the study identify as a secreted inhibitor?", ["Harmane", "Penicillin", "Gold", "Insulin"], 0, "Harmane is the secreted small-molecule inhibitor.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- For every method, identify the variable, the control and the readout.
+- The study spans isolation, inhibition assays, harmane, gut colonization and fitness, and field studies with modeling.
+:::
+
 ::: {.callout-note}
 Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
 :::

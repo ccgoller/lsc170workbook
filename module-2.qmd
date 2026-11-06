@@ -60,6 +60,17 @@ notes("m2-question", "State the research question or goal.")
 notes("m2-reflect", "What terms do you still need to define?")
 ```
 
+```{ojs}
+//| echo: false
+quiz("m2q2", "What makes D. tsuruhatensis TC1 notable in this article?", ["It is genetically modified", "It is a naturally occurring symbiont linked to blocking Plasmodium development", "It causes malaria", "It was isolated from soil in Delft"], 1, "TC1 is a natural, non-modified symbiont from mosquitoes.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- The introduction frames the problem (malaria), the approach (a symbiont) and the research question.
+- TC1 is naturally occurring and not genetically modified.
+:::
+
 ::: {.callout-note}
 Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
 :::

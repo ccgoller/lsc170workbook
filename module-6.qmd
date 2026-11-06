@@ -57,6 +57,17 @@ notes("m6-convincing", "What did the authors claim in the introduction? Are the 
 notes("m6-impact", "How will these findings impact the field and future studies?")
 ```
 
+```{ojs}
+//| echo: false
+quiz("m6q2", "When judging whether results are convincing, you should…", ["Accept the authors' claims", "Check that the data, controls and assumptions support each claim", "Count the figures", "Ignore the methods"], 1, "Claims must be backed by the data and controls.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Summarize results, implications and discussion, and show them in a concept map.
+- Integrate findings with the methods used and the claims made.
+:::
+
 ::: {.callout-note}
 Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
 :::

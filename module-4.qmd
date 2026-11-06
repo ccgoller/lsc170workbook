@@ -53,6 +53,17 @@ notes("m4-figure", "Figure number, controls, readout, finding, assumptions, impl
 notes("m4-reflect", "Do the data support the authors' claims so far?")
 ```
 
+```{ojs}
+//| echo: false
+quiz("m4q2", "Which item belongs on a Data Analysis Sheet?", ["Only the final conclusion", "Question, methods, controls, readout, result, assumptions, implications", "The reference list", "Only the figure title"], 1, "The DAS walks through every part of a figure.")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Start from what is plotted: axes, legend, controls.
+- Record assumptions and implications, not only results.
+:::
+
 ::: {.callout-note}
 Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
 :::
