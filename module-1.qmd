@@ -1,0 +1,81 @@
+---
+title: "Module 1: Introduction to the C.R.E.A.T.E. Method and *Delftia*"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+We explore the C.R.E.A.T.E. method to help us analyze our research article. We learn about microbes and malaria... and why *Delftia tsuruhatensis* is so intriguing!
+
+## Learning objectives
+
+By the end of this module, you should be able to:
+
+- Describe the C.R.E.A.T.E. method and why it is used to read primary scientific literature.
+- Explain why malaria is a global challenge.
+- Summarize what you know about *Delftia* spp.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("module-1-todo", ["Review the C.R.E.A.T.E. method and its features", "Review the background on Delftia in the Delftia Book", "Complete the first in-class activity"])
+```
+
+## The C.R.E.A.T.E. method
+
+**C**onsider, **R**ead, **E**lucidate hypotheses, **A**nalyze and interpret the data, **T**hink of the next **E**xperiment.
+
+::: {.create-step}
+### C — Consider
+Activate what you already know before you read. Concept-map the topic.
+:::
+::: {.create-step}
+### R — Read
+Read the paper in chunks, sketching the experiments and defining new terms.
+:::
+::: {.create-step}
+### E — Elucidate hypotheses
+State the question, the hypothesis, and the prediction behind each experiment.
+:::
+::: {.create-step}
+### A — Analyze and interpret the data
+Work through every figure: controls, readout, findings, assumptions, implications.
+:::
+::: {.create-step}
+### T — Think of the next Experiment
+Propose a follow-up that fills a gap or extends the paper.
+:::
+
+```{ojs}
+//| echo: false
+quiz("m1q1", "Which step asks you to design a follow-up study?", ["Consider", "Read", "Analyze and interpret", "Think of the next experiment"], 3, "That is the last step of CREATE.")
+```
+
+## What is *Delftia*?
+
+The genus *Delftia* was first identified when *Delftia acidovorans* was isolated from soil in Delft, Netherlands. It was classified as *Pseudomonas acidovorans* in 1926, reclassified as *Comamonas acidovorans* in 1987, and placed in its own genus in 1999 using 16S rRNA sequencing. *D. tsuruhatensis* was described in 2003 from activated sludge in Japan.
+
+<details><summary>Hint: Gram-negative, aerobic, rod-shaped</summary>
+*Delftia* need oxygen, look like rods under the microscope, and do not stain purple in a Gram stain.
+</details>
+
+```{ojs}
+//| echo: false
+quiz("m1q2", "Why is the genus called Delftia?", ["It was found in Delft, Netherlands", "It was named after its discoverer", "It makes gold", "It lives in mosquitoes only"], 0, "The name honors the city of Delft.")
+```
+
+## Consider: what do you already know?
+
+```{ojs}
+//| echo: false
+notes("m1-consider", "What do you know about malaria, mosquitoes and symbiotic microbes?")
+```
+
+::: {.callout-note}
+Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+:::

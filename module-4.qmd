@@ -1,0 +1,58 @@
+---
+title: "Module 4: Figure Analysis I"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+Figures 1-3 and Supplementary Materials. We use our knowledge of the methods to analyze the first set of figures (Figures 1-3 and S1-9), learning about the findings and implications and thinking critically about the data and assumptions.
+
+## Learning objectives
+
+By the end of this module, you should be able to:
+
+- Analyze the research findings shared by the authors.
+- Summarize each figure, noting assumptions and implications.
+- Discuss the findings of this study with peers.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("module-4-todo", ["Review the Delftia background before the first session", "Complete the in-class activity and submit individually", "Summarize your assigned figure(s) using the Data Analysis Sheet (DAS) template"])
+```
+
+## Return to the article
+
+Review the first three figures of the article and download the Supplementary Materials.
+
+## Data Analysis Sheet (DAS)
+
+For each figure panel record: **question**, **methods**, **controls**, **readout**, **result**, **assumptions**, **implications**.
+
+```{ojs}
+//| echo: false
+quiz("m4q1", "What should you identify first when analyzing a figure?", ["The authors' conclusion", "What the axes and legend show", "The journal impact factor", "The references"], 1, "Start from what is plotted.")
+```
+
+## My figure summary
+
+```{ojs}
+//| echo: false
+notes("m4-figure", "Figure number, controls, readout, finding, assumptions, implications.")
+```
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("m4-reflect", "Do the data support the authors' claims so far?")
+```
+
+::: {.callout-note}
+Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+:::

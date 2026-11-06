@@ -1,0 +1,54 @@
+---
+title: "Module 5: Figure Analysis II"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+We analyze the second set of figures from the study. You work with groups to carefully and systematically analyze each figure, identifying the controls, readout, findings and implications, and connect these results to the previous set of figures.
+
+## Learning objectives
+
+By the end of this module, you should be able to:
+
+- Analyze the remaining research findings shared by the authors.
+- Summarize each figure, noting assumptions and implications.
+- Connect these results to Figures 1-3.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("module-5-todo", ["Review the Delftia background before the first session", "Complete the in-class activity and submit individually", "Summarize your assigned figure(s) using the DAS template"])
+```
+
+## Return to the article
+
+The later figures address harmane, colonization of the mosquito gut and fitness, and the field study and modeling.
+
+```{ojs}
+//| echo: false
+quiz("m5q1", "Which molecule did the authors identify as the TC1 inhibitor?", ["Delftibactin", "Harmane", "Penicillin", "Quinine"], 1, "Harmane is a hydrophobic small molecule that penetrates the mosquito cuticle.")
+```
+
+## My figure summary
+
+```{ojs}
+//| echo: false
+notes("m5-figure", "Figure number, controls, readout, finding, assumptions, implications.")
+```
+
+## Connect to earlier figures
+
+```{ojs}
+//| echo: false
+notes("m5-connect", "How do these results build on Figures 1-3?")
+```
+
+::: {.callout-note}
+Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+:::

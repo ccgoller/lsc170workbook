@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+// Palette taken from the course logo
+$cape-red: #B8191F;
+$charcoal: #4A4A4A;
+$ink: #1C1C1C;
+$cream: #F4EFE3;
+$star-gold: #E3B13B;
+
+$body-bg: $cream;
+$body-color: $ink;
+$link-color: $cape-red;
+$primary: $cape-red;
+$secondary: $charcoal;
+$warning: $star-gold;
+$headings-color: $charcoal;
+$font-family-sans-serif: "Helvetica Neue", Arial, sans-serif;
+$navbar-bg: $ink;
+$sidebar-bg: #fffaf0;
+
+/*-- scss:rules --*/
+h1, h2 { border-bottom: 3px solid $star-gold; padding-bottom: .2em; }
+h1.title { color: $cape-red; }
+.sidebar-title, .book-title { color: $cape-red; font-weight: 700; }
+#quarto-sidebar { border-right: 6px solid $charcoal; }
+.callout-note { border-left-color: $charcoal !important; }
+.callout-important { border-left-color: $cape-red !important; }
+.callout-tip { border-left-color: $star-gold !important; }
+.create-step {
+  background: #fff; border: 4px solid $charcoal; border-radius: 14px;
+  padding: .8rem 1.2rem; margin: 1rem 0; box-shadow: 4px 4px 0 $cape-red;
+}
+.create-step h3 { color: $cape-red; margin-top: 0; }
+.quiz-q { background:#fff; border:2px dashed $charcoal; border-radius:10px; padding:.8rem 1rem; margin:1rem 0; }
+.quiz-q button, .quiz-q input[type=submit] { background:$cape-red; color:#fff; border:0; border-radius:20px; padding:.3rem 1rem; }
+.quiz-feedback { font-weight:700; margin-top:.4rem; }
+.quiz-feedback.ok { color:#1d7a3a; } .quiz-feedback.no { color:$cape-red; }
+details { background:#fff; border-left:6px solid $star-gold; padding:.5rem 1rem; margin:1rem 0; }
+summary { font-weight:700; color:$cape-red; cursor:pointer; }

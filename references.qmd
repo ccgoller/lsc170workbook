@@ -1,0 +1,5 @@
+# References {.unnumbered}
+
+- NC State LSC 170 *Delftia* Pressbook: <https://ncstate.pressbooks.pub/delftia/>
+- Hammond, S. E., Hoyer, S. & Hauer, M. C.R.E.A.T.E. (Consider, Read, Elucidate hypotheses, Analyze and interpret the data, Think of the next Experiment). <https://teachcreate.org>
+- Huang, W. et al. (2023). *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes. *Science*. <https://doi.org/10.1126/science.adf8141>

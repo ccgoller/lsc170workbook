@@ -1,0 +1,5 @@
+# Background on *Delftia* {.unnumbered}
+
+*Delftia* are Gram-negative, aerobic, rod-shaped bacteria first isolated from soil. They were reclassified from *Comamonas* into their own genus in 1999. Species include *D. acidovorans* and *D. tsuruhatensis*, with properties relevant to gold precipitation, metal biosorption, and, in TC1, suppression of malaria transmission.
+
+See the original Delftia Book (CC BY-NC 4.0) for the full text: <https://ncstate.pressbooks.pub/delftia/>

@@ -1,0 +1,58 @@
+---
+title: "Module 3: Methods"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+We take a close look at the methods used in the study so we can interpret the figures that follow. Understanding how each experiment works is essential before analyzing the data.
+
+## Learning objectives
+
+By the end of this module, you should be able to:
+
+- Describe the key experimental approaches used in the study.
+- Identify the controls, variables and readouts of each method.
+- Explain why each method was chosen to address the research question.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("module-3-todo", ["Review the Delftia background and the article's methods", "Complete the in-class activity and submit individually", "Create a representation of the methods (e.g. flow chart or sketch)"])
+```
+
+## Key themes in the methods
+
+From the abstract, the study (1) isolates TC1 from mosquitoes, (2) tests inhibition of early *Plasmodium* development, (3) identifies a secreted small-molecule inhibitor, **harmane**, (4) tests whether TC1 colonizes the mosquito gut and affects fitness, and (5) uses contained field studies in Burkina Faso and modeling.
+
+::: {.callout-important}
+Always ask of each method: What is the **control**? What is the **readout**? What is the **variable**?
+:::
+
+```{ojs}
+//| echo: false
+quiz("m3q1", "A control experiment is used to…", ["Prove the hypothesis is true", "Show the readout changes only because of the variable tested", "Replace statistics", "Increase sample size"], 1, "Controls isolate the effect of the variable.")
+```
+
+## Sketch the experiments
+
+```{ojs}
+//| echo: false
+notes("m3-sketch", "For each method, list the variable, control, and readout.")
+```
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("m3-reflect", "Which method was hardest to understand?")
+```
+
+::: {.callout-note}
+Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+:::
