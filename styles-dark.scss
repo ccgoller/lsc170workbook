@@ -30,15 +30,15 @@ a:hover { color: #FFC4C6; }
 .create-step {
   background: $surface;
   border: 2px solid $charcoal;
+  border-left: 6px solid $cape-red;
   border-radius: 12px;
   padding: .8rem 1.2rem;
   margin: 1rem 0;
-  box-shadow: 4px 4px 0 #8F3035;
 }
 .create-step h3 { color: $cape-red; margin-top: 0; }
 .quiz-q {
   background: $surface;
-  border: 2px dashed $charcoal;
+  border: 2px dashed $cape-red;
   border-radius: 10px;
   padding: .8rem 1rem;
   margin: 1rem 0;
@@ -69,6 +69,8 @@ summary { font-weight: 700; color: $cape-red; cursor: pointer; }
   background: $surface;
   color: $ink;
   padding: .5rem 1rem;
+  border: 2px solid $charcoal;
+  border-radius: 4px;
 }
 :focus-visible {
   outline: 3px solid #FFFFFF;
@@ -102,6 +104,9 @@ fieldset.quiz-q { min-width: 0; }
   padding: .5rem;
   background: $night;
   color: $ink;
+}
+.notes-box:focus-visible {
+  border-color: $cape-red;
 }
 .notes-hint { color: $charcoal; }
 .takeaways {

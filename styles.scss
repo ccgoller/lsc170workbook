@@ -1,11 +1,10 @@
 /*-- scss:defaults --*/
-$cape-red: #85171C;
-$charcoal: #343A40;
+$cape-red: #B8191F;
+$charcoal: #4A4A4A;
 $ink: #24272B;
-$cream: #FAF8F3;
-$gold: #D19A20;
+$gold: #8A6410;
 
-$body-bg: $cream;
+$body-bg: #FFFFFF;
 $body-color: $ink;
 $link-color: $cape-red;
 $primary: $cape-red;
@@ -22,22 +21,22 @@ h1, h2 { border-bottom: 3px solid $gold; padding-bottom: .2em; }
 h1.title { color: $cape-red; }
 .sidebar-title, .book-title { color: $cape-red; font-weight: 700; }
 #quarto-sidebar { border-right: 4px solid $charcoal; }
-a:hover { color: #641116; }
+a:hover { color: #791015; }
 .callout-note { border-left-color: $charcoal !important; }
 .callout-important { border-left-color: $cape-red !important; }
 .callout-tip { border-left-color: $warning !important; }
 .create-step {
   background: #FFFFFF;
   border: 2px solid $charcoal;
+  border-left: 6px solid $cape-red;
   border-radius: 12px;
   padding: .8rem 1.2rem;
   margin: 1rem 0;
-  box-shadow: 4px 4px 0 $cape-red;
 }
 .create-step h3 { color: $cape-red; margin-top: 0; }
 .quiz-q {
   background: #FFFFFF;
-  border: 2px dashed $charcoal;
+  border: 2px dashed $cape-red;
   border-radius: 10px;
   padding: .8rem 1rem;
   margin: 1rem 0;
@@ -68,6 +67,8 @@ summary { font-weight: 700; color: $cape-red; cursor: pointer; }
   background: #FFFFFF;
   color: $ink;
   padding: .5rem 1rem;
+  border: 2px solid $charcoal;
+  border-radius: 4px;
 }
 :focus-visible {
   outline: 3px solid $ink;
@@ -102,11 +103,14 @@ fieldset.quiz-q { min-width: 0; }
   background: #FFFFFF;
   color: $ink;
 }
+.notes-box:focus-visible {
+  border-color: $cape-red;
+}
 .notes-hint { color: $charcoal; }
 .takeaways {
   background: #FFFFFF;
   border: 2px solid $charcoal;
-  border-left: 8px solid $warning;
+  border-left: 8px solid $gold;
   border-radius: 8px;
   padding: .5rem 1rem;
   margin: 1.5rem 0;
