@@ -1,8 +1,8 @@
 # About the Author {.unnumbered}
 
 ::: {.about-author}
-::: {.about-logo}
-![](images/Microbial%20Superheroes%20course%20logo.png){fig-alt="The Microbial Superheroes course logo" width=220}
+::: {.about-photo}
+![](images/carlos-goller-portrait.jpg){fig-alt="Carlos C. Goller wearing an academic cap and black robe" width=220}
 :::
 
 ::: {.about-copy}
