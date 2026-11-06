@@ -1,0 +1,19 @@
+# About the Author {.unnumbered}
+
+::: {.about-author}
+::: {.about-logo}
+![](images/Microbial%20Superheroes%20course%20logo.png){fig-alt="The Microbial Superheroes course logo" width=220}
+:::
+
+::: {.about-copy}
+## Carlos C. Goller
+
+Carlos C. Goller is the author of this workbook and is affiliated with the
+Department of Biological Sciences at NC State University.
+
+*LSC 170: Microbial Superheroes* introduces students to the C.R.E.A.T.E. method
+for reading primary scientific literature. This workbook pairs that approach
+with learning activities about *Delftia*, including guided reading, knowledge
+checks, checklists, and space for notes.
+:::
+:::

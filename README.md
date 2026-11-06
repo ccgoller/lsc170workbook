@@ -4,4 +4,5 @@ Interactive Quarto book for LSC 170: Microbial Superheroes.
 
 Build: `quarto render` (preview: `quarto preview`).
 
-Replace `images/logo.svg` with the official logo (e.g. `images/logo.jpg`) and update `_quarto.yml`.
+The shared course logo is `images/Microbial Superheroes course logo.png`. The site provides
+coordinated light and dark themes, which can be switched from the navigation bar.
