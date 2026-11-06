@@ -8,11 +8,15 @@ function el(tag, attrs = {}, ...kids) {
 
 // Knowledge check: a labelled radio group with screen-reader-announced feedback.
 export function quiz(id, question, options, answer, explain) {
+  const feedbackId = `${id}-feedback`;
   const box = el("fieldset", { className: "quiz-q" });
+  box.setAttribute("aria-describedby", feedbackId);
   box.append(el("legend", { className: "quiz-legend", textContent: "Knowledge check: " + question }));
   const fb = el("div", { className: "quiz-feedback" });
+  fb.id = feedbackId;
   fb.setAttribute("role", "status");
   fb.setAttribute("aria-live", "polite");
+  fb.setAttribute("aria-atomic", "true");
   options.forEach((o, i) => {
     const input = el("input", { type: "radio", name: id, id: `${id}-${i}` });
     input.onchange = () => {
@@ -31,22 +35,28 @@ export function quiz(id, question, options, answer, explain) {
 // Notes box saved in the browser, with a visible label for screen readers.
 export function notes(key, prompt) {
   const id = `notes-${key}`;
+  const hintId = `${id}-hint`;
   const ta = el("textarea", { rows: 4, id, className: "notes-box" });
+  ta.setAttribute("aria-describedby", hintId);
   ta.value = localStorage.getItem(key) || "";
   ta.oninput = () => localStorage.setItem(key, ta.value);
   return el("div", { className: "notes-wrap" },
     el("label", { htmlFor: id, className: "notes-label", textContent: prompt }),
     ta,
-    el("small", { className: "notes-hint", textContent: "Saved automatically in this browser." }));
+    el("small", { id: hintId, className: "notes-hint", textContent: "Saved automatically in this browser." }));
 }
 
 // To-do checklist with a progress count, saved in the browser.
 export function checklist(key, items) {
   const wrap = el("fieldset", { className: "quiz-q" });
+  const progressId = `${key}-progress`;
+  wrap.setAttribute("aria-describedby", progressId);
   wrap.append(el("legend", { className: "quiz-legend", textContent: "Module to-do list" }));
   const progress = el("div", { className: "checklist-progress" });
+  progress.id = progressId;
   progress.setAttribute("role", "status");
   progress.setAttribute("aria-live", "polite");
+  progress.setAttribute("aria-atomic", "true");
   const boxes = [];
   const update = () => {
     const n = boxes.filter((b) => b.checked).length;
