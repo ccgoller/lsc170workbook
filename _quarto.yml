@@ -13,7 +13,11 @@ book:
     search: true
   page-navigation: true
   downloads: [pdf, epub]
-  repo-url: https://github.com/ccgoller/lsc170workbook
+  page-footer:
+    center:
+      - text: "<i class='bi bi-github'></i> GitHub repository"
+        href: https://github.com/ccgoller/lsc170workbook
+        aria-label: "GitHub repository"
   chapters:
     - index.qmd
     - about.qmd
