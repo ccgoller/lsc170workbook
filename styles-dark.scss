@@ -12,6 +12,11 @@ $link-color: $cape-red;
 $primary: $cape-red;
 $secondary: #373E45;
 $warning: $gold;
+$callout-color-note: #FF6B72;
+$callout-color-important: #FF9B9F;
+$callout-color-warning: #FFC83D;
+$callout-color-tip: #FFC83D;
+$callout-color-caution: #FF6B72;
 $headings-color: #FFFFFF;
 $font-family-sans-serif: "Helvetica Neue", Arial, sans-serif;
 $navbar-bg: #101214;
@@ -24,9 +29,6 @@ h1.title { color: $cape-red; }
 .sidebar-title, .book-title { color: $cape-red; font-weight: 700; }
 #quarto-sidebar { border-right: 4px solid $charcoal; }
 a:hover { color: #FFC4C6; }
-.callout-note { border-left-color: $charcoal !important; }
-.callout-important { border-left-color: $cape-red !important; }
-.callout-tip { border-left-color: $gold !important; }
 .create-step {
   background: $surface;
   border: 2px solid $charcoal;
