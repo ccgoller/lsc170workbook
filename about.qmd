@@ -8,12 +8,46 @@
 ::: {.about-copy}
 ## Carlos C. Goller
 
-Carlos C. Goller is the author of this workbook and is affiliated with the
-Department of Biological Sciences at NC State University.
+Carlos C. Goller is a Teaching Professor at North Carolina State University in
+Raleigh, NC. He teaches microbiology, life science, public health, and other fun
+courses as part of the Department of Biological Sciences. When not playing with
+*Delftia acidovorans* or code, Carlos enjoys spending time with his family and
+playing with his dog Sunshine.
 
 *LSC 170: Microbial Superheroes* introduces students to the C.R.E.A.T.E. method
 for reading primary scientific literature. This workbook pairs that approach
 with learning activities about *Delftia*, including guided reading, knowledge
 checks, checklists, and space for notes.
+
+### Education
+
+**North Carolina State University**, Raleigh, NC  
+Advisor: Dr. Sue Carson  
+Topic: Biotechnology Education and Curriculum Development
+
+**Duke University Medical Center**, Durham, NC  
+Advisor: Patrick C. Seed  
+Topic: Bacterial Pathogenesis and Anti-infective Screening  
+The Hartwell Foundation Postdoctoral Fellowship, September 2008 - July 2012
+
+**Emory University**, Atlanta, GA  
+Advisor: Tony Romeo  
+Topic: Bacterial Biofilm Formation and Regulation  
+Ph.D. in Microbiology and Molecular Genetics, August 2002 - September 2008
+
+**Worcester Polytechnic Institute**, Worcester, MA  
+B.S. in Biology and Biotechnology, August 1998 - May 2002
+
+### Experience
+
+- Teaching Professor, NC State Department of Biological Sciences, 2024 - Present
+- Associate Teaching Professor, NC State Department of Biological Sciences, 2019 - 2024
+- Assistant Teaching Professor, NC State Department of Biological Sciences, 2015 - 2019
+
+### Additional Links
+
+- [BSC 495: The Hidden World's Code](https://ccgoller.github.io/bsc-fungal-genomics-lab/)
+- [GitHub Profile](https://github.com/ccgoller)
+- [LinkedIn Profile](https://linkedin.com/in/ccgoller)
 :::
 :::

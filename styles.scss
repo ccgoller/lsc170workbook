@@ -137,6 +137,7 @@ fieldset.quiz-q { min-width: 0; }
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .15);
 }
 .about-copy h2 { margin-top: 0; }
+.about-copy h3 { margin-top: 1.25rem; }
 @media (max-width: 600px) {
   .about-author { grid-template-columns: 1fr; padding: 1rem; }
   .about-photo img { max-width: 220px; }
