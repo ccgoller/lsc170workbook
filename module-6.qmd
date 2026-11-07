@@ -45,6 +45,10 @@ notes("m6-findings", "Summarize the main findings and implications.")
 
 ## Are the results convincing?
 
+<details><summary>Hint: Judging the evidence</summary>
+Consider whether controls were included, whether results were repeated, and whether another explanation could fit the data.
+</details>
+
 ```{ojs}
 //| echo: false
 notes("m6-convincing", "What did the authors claim in the introduction? Are the results convincing? Why or why not?")

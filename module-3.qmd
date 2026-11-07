@@ -41,6 +41,10 @@ quiz("m3q1", "A control experiment is used to…", ["Prove the hypothesis is tru
 
 ## Sketch the experiments
 
+<details><summary>Hint: What to sketch</summary>
+For each experiment, draw the starting material, the treatment or comparison, and what was measured. Label the control group.
+</details>
+
 ```{ojs}
 //| echo: false
 notes("m3-sketch", "For each method, list the variable, control, and readout.")
