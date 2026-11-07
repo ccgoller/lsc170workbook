@@ -149,3 +149,27 @@ fieldset.quiz-q { min-width: 0; }
     scroll-behavior: auto !important;
   }
 }
+
+/* Single-row, fluid navbar on small screens */
+.navbar > .navbar-container {
+  flex-wrap: nowrap;
+  gap: .5rem;
+  min-width: 0;
+}
+.navbar .navbar-brand-container {
+  flex: 1 1 auto;
+  min-width: 0;
+  margin-right: 0;
+}
+.navbar .navbar-brand,
+.navbar .navbar-title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+.navbar .navbar-toggler { flex: 0 0 auto; }
+.navbar .navbar-brand img { max-height: 2rem; width: auto; }
+@media (max-width: 991.98px) {
+  .navbar .navbar-brand { font-size: clamp(.85rem, 3.8vw, 1.25rem); }
+}
