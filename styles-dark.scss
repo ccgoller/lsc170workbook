@@ -58,11 +58,12 @@ a:hover { color: #FFC4C6; }
 }
 details {
   background: $surface;
-  border-left: 6px solid $gold;
+  border-left: 6px solid $charcoal;
+  color: $ink;
   padding: .5rem 1rem;
   margin: 1rem 0;
 }
-summary { font-weight: 700; color: $cape-red; cursor: pointer; }
+summary { font-weight: 700; color: $ink; cursor: pointer; }
 .skip-link { position: absolute; left: -999px; }
 .skip-link:focus {
   left: 1rem;

@@ -29,6 +29,10 @@ checklist("module-7-todo", ["Review the Delftia Book before the first session", 
 
 ## Proposal outline
 
+<details><summary>Hint: Strong proposals</summary>
+State a testable question, a hypothesis, the experiment you would run, and the result that would support or refute your hypothesis.
+</details>
+
 Use these headings: **Gap**, **Hypothesis**, **Aims/Experiments**, **Controls and readouts**, **Expected results**, **Implications**, **Limitations**.
 
 ```{ojs}

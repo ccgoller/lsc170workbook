@@ -56,11 +56,12 @@ a:hover { color: #791015; }
 }
 details {
   background: #FFFFFF;
-  border-left: 6px solid $warning;
+  border-left: 6px solid $charcoal;
+  color: #000000;
   padding: .5rem 1rem;
   margin: 1rem 0;
 }
-summary { font-weight: 700; color: $cape-red; cursor: pointer; }
+summary { font-weight: 700; color: #000000; cursor: pointer; }
 .skip-link { position: absolute; left: -999px; }
 .skip-link:focus {
   left: 1rem;

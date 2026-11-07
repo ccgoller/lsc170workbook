@@ -34,6 +34,10 @@ The paper, published in *Science* in 2023, describes a naturally occurring, non-
 
 Break the title into parts: organism, relationship, effect, and host.
 
+<details><summary>Hint: Organism, relationship, effect, host</summary>
+Look for the bacterium's name, the word describing how it lives with its host, what it does to the parasite, and the insect it lives in.
+</details>
+
 ```{ojs}
 //| echo: false
 quiz("m2q1", "In the title, 'symbiont' means TC1 is…", ["A parasite of humans", "A microbe living in association with the mosquito", "A drug", "A virus"], 1, "A symbiont lives in association with a host.")

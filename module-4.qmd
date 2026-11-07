@@ -32,6 +32,10 @@ Review the first three figures of the article and download the Supplementary Mat
 
 ## Data Analysis Sheet (DAS)
 
+<details><summary>Hint: Reading a figure</summary>
+Start with the axes and legend, then identify the control and experimental groups before describing any trend.
+</details>
+
 For each figure panel record: **question**, **methods**, **controls**, **readout**, **result**, **assumptions**, **implications**.
 
 ```{ojs}

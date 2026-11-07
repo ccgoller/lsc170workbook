@@ -44,6 +44,10 @@ notes("m5-figure", "Figure number, controls, readout, finding, assumptions, impl
 
 ## Connect to earlier figures
 
+<details><summary>Hint: Linking figures</summary>
+Ask what question the earlier figure left open and how this figure's experiment tries to answer it.
+</details>
+
 ```{ojs}
 //| echo: false
 notes("m5-connect", "How do these results build on Figures 1-3?")
