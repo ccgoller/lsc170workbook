@@ -14,11 +14,6 @@ book:
   page-navigation: true
   downloads: [pdf, epub]
   repo-url: https://github.com/ccgoller/lsc170workbook
-  navbar:
-    left:
-      - icon: book
-        href: index.qmd
-        text: Home
   chapters:
     - index.qmd
     - about.qmd
