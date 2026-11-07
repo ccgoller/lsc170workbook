@@ -12,6 +12,7 @@ book:
     style: docked
     search: true
   page-navigation: true
+  downloads: [pdf, epub]
   repo-url: https://github.com/ccgoller/lsc170workbook
   navbar:
     left:
@@ -29,7 +30,6 @@ book:
     - module-5.qmd
     - module-6.qmd
     - module-7.qmd
-    - lab-module-1.qmd
     - references.qmd
 
 format:
@@ -45,3 +45,8 @@ format:
     lang: en
     number-sections: false
     search: true
+  pdf:
+    documentclass: scrbook
+    toc: true
+  epub:
+    toc: true
