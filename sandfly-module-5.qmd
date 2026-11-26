@@ -1,0 +1,139 @@
+---
+title: "Sand Fly Module 5: Figure Analysis II (Figs 4–6)"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+**CREATE step: Analyze.** Continue with Figures 4–6, connect lab findings to transmission in the field, and examine the assumptions behind the authors' modeling, including the basic reproduction number (R0).
+
+## Learning outcomes
+
+- Summarize Figures 4–6 with a DAS.
+- Explain what R0 means and how it can change.
+- Audit the assumptions behind a model.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("sf5-todo", ["Read Figures 4–6 and their legends", "Complete the Perusall assignment", "Fill in a DAS for your assigned figure", "Submit portfolio checkpoint 2"])
+```
+
+## Perusall pre-class assignment
+
+Use `#Evidence`, `#EffectSize`, `#Assumption`, `#Limit` and `#Question`. **How it is used in class:** annotations seed the Assumption Audit.
+
+## Background: key concepts
+
+- **R0:** the average number of new infections caused by one infection in a susceptible population. If R0 is below 1, an outbreak fades.
+- **Model assumption:** an input or simplification the model depends on.
+- **Field vs lab:** results in controlled conditions may not hold in nature.
+
+## Methods spotlight
+
+**Reading a model figure:** identify the inputs, the output, and which parameter is varied.
+
+## Links and further reading
+
+- Cecilio, P. et al. (2025). *Nature Communications* 16:3571, Figures 4–6.
+
+## Week plans
+
+**Week 1:** 10 min DAS recap; 30 min Field Advisory Brief (groups advise a public-health team); 10 min confusion report.
+
+**Week 2:** 10 min R0 refresher; 30 min R0 Lab and Assumption Audit; 10 min reflect and confusion report.
+
+## Instructor note
+
+Remind students that a model output is only as good as its assumptions.
+
+## Knowledge check
+
+### Part A
+
+```{ojs}
+//| echo: false
+quiz("sf5qa1", "R0 below 1 means...", ["An outbreak tends to fade", "An outbreak grows", "No parasite exists", "A vaccine works"], 0, "Each case causes fewer than one new case.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qa2", "R0 is...", ["Average new infections per infection", "The number of flies", "A lab method", "A gene"], 0, "It summarizes transmission potential.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qa3", "Why audit assumptions?", ["Outputs depend on them", "They are never wrong", "They replace data", "They are decorative"], 0, "Weak assumptions weaken conclusions.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qa4", "Lab results may not transfer to the field because...", ["Conditions differ", "Labs are never accurate", "Fields have no insects", "Models are random"], 0, "Context matters.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qa5", "A #Limit annotation flags...", ["A constraint on interpretation", "A strength", "A new term", "A citation"], 0, "Limits shape confidence.")
+```
+
+### Part B
+
+```{ojs}
+//| echo: false
+quiz("sf5qb1", "In a model figure, first identify...", ["Inputs, output and the varied parameter", "Only the title", "The authors' names", "The funding"], 0, "Understand the structure first.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qb2", "If an intervention lowers R0, transmission...", ["Is reduced", "Increases", "Is unchanged", "Stops always"], 0, "Lower R0 means less spread.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qb3", "A field advisory brief should...", ["Give evidence-based recommendations with caveats", "Hide limits", "Skip data", "Only quote the abstract"], 0, "Advice needs evidence and honesty about limits.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qb4", "Sensitivity of R0 to a parameter shows...", ["How much the result changes when it changes", "The parameter is true", "The model is wrong", "Nothing"], 0, "It reveals influential inputs.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf5qb5", "Which is a model assumption?", ["A fixed biting rate", "A measured figure panel", "A title", "A reference"], 0, "Fixed inputs are often assumptions.")
+```
+
+## Group challenge: Field Advisory Brief and R0 Lab
+
+**Steps**
+
+1. Complete a DAS for each of Figures 4–6.
+2. In the R0 Lab, change one parameter and predict the effect on R0.
+3. Audit three assumptions and rate how risky each is.
+4. Write a one-page brief for a public-health team.
+
+**What to submit:** the brief and the assumption audit table.
+
+## Portfolio and evaluation
+
+- **Portfolio checkpoint 2:** DAS for Figures 1–6 and your assumption audit.
+- **Source log entry:** a source on transmission modeling, with a 2–3 sentence reliability note.
+- **Peer/self evaluation:** three-item form.
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("sf5-reflect", "Which assumption most affects the authors' conclusions?")
+```
+
+::: {.takeaways}
+### Key takeaways
+- R0 summarizes transmission potential.
+- Audit assumptions before trusting a model's output.
+:::

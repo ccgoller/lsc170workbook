@@ -1,0 +1,58 @@
+---
+title: "Section 2: Sand Flies and Leishmania"
+---
+
+This section applies the **C.R.E.A.T.E.** method to a second article. Where the first section followed *Delftia* and malaria in mosquitoes, this one follows *Delftia tsuruhatensis* TC1 and *Leishmania* in sand flies.
+
+**Anchor article:** Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+
+## How the section is organized
+
+The section has seven two-week modules (14 weeks, one 50-minute meeting per week).
+
+| Module | Focus | CREATE step | Signature activity |
+|---|---|---|---|
+| 1 | Getting started | Consider | Concept Map Showdown |
+| 2 | Introduction to the article | Read | Hypothesis Board |
+| 3 | Methods | Read | Methods Market and Method Card |
+| 4 | Figure analysis I (Figs 1–3) | Elucidate, Analyze | Figure Detectives and Mechanism Tribunal |
+| 5 | Figure analysis II (Figs 4–6) | Analyze | Field Advisory Brief, R0 Lab |
+| 6 | Discussion and implications | Analyze, Think | Write the Discussion |
+| 7 | Next experiment and grant proposal | Think | Mini-Grant Panel |
+
+## Pre-class annotation tags
+
+Annotate the article in Perusall with these text-based tags so meaning never depends on color:
+`#Concept`, `#Known`, `#Gap`, `#Question`, `#Hypothesis`, `#Method`, `#Term`, `#Inference`, `#EffectSize`, `#Assumption`, `#Claim`, `#Evidence`, `#Limit`, `#MyLimit`, `#Strength`, `#Suggestion`, `#NextExperiment`.
+
+## Group roles
+
+Rotate these roles each module: **Facilitator**, **Recorder**, **Evidence checker**, **Reporter**.
+
+## Group challenge rubric (12 points)
+
+Score each row from 1 to 3.
+
+| Criterion | 1 | 2 | 3 |
+|---|---|---|---|
+| Use of evidence | Little or no data cited | Some data cited | Specific data cited and checked |
+| Scientific reasoning | Claims unsupported | Partly reasoned | Claim, evidence and reasoning linked |
+| Collaboration | One voice dominates | Some sharing | Roles shared and respected |
+| Communication | Hard to follow | Mostly clear | Clear, concise and accurate |
+
+## Suggested grade weights
+
+Perusall 15%, knowledge checks 10%, group challenges 25%, portfolio 35%, Mini-Grant Panel 10%, participation 5%.
+
+## Source reliability: four questions
+
+1. Who wrote it?
+2. Was it reviewed?
+3. How recent is it?
+4. What evidence does it give?
+
+Record each source in your **source log** with a 2–3 sentence reliability note.
+
+::: {.callout-note}
+Course structure follows the LSC 170 Course Map and CREATE Modules documents. Article content is the original work of Cecilio et al. (2025); read the paper itself for authoritative text and figures.
+:::

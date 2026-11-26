@@ -1,0 +1,110 @@
+---
+title: "Sand Fly Module 6: Discussion and Implications"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+**CREATE steps: Analyze and Think.** Evaluate the authors' Discussion, decide which claims the evidence supports, and write your own Discussion using claim–evidence–reasoning.
+
+## Learning outcomes
+
+- Evaluate claims against evidence.
+- Identify strengths and limits of the study.
+- Write a claim–evidence–reasoning paragraph.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("sf6-todo", ["Read the Discussion", "Complete the Perusall assignment", "Draft your own Discussion paragraph", "Review the annotation quality rubric"])
+```
+
+## Perusall pre-class assignment
+
+Use `#Claim`, `#Evidence`, `#Limit`, `#MyLimit`, `#Strength` and `#Suggestion`. Scored with the annotation quality rubric: **Accuracy, Evidence, Thinking, Interaction**. **How it is used in class:** annotations become the raw material for Write the Discussion.
+
+## Background: key concepts
+
+- **Claim:** a statement you want the reader to accept.
+- **Evidence:** data that supports the claim.
+- **Reasoning:** why the evidence supports the claim.
+- **Implication:** what follows if the claim is right.
+
+## Methods spotlight
+
+**Claim–evidence–reasoning (CER):** State the claim, cite specific data, then explain the link in your own words.
+
+## Links and further reading
+
+- Cecilio, P. et al. (2025). *Nature Communications* 16:3571, Discussion.
+
+## Week plans
+
+**Week 1:** 10 min CER model; 30 min mark up the Discussion for claims, evidence and limits; 10 min confusion report.
+
+**Week 2:** 10 min peer feedback; 30 min Write the Discussion; 10 min reflect and confusion report.
+
+## Instructor note
+
+Require a `#MyLimit`: a limit the student sees that the authors do not state.
+
+## Knowledge check
+
+```{ojs}
+//| echo: false
+quiz("sf6q1", "Reasoning in CER explains...", ["Why the evidence supports the claim", "The title", "The methods", "The authors"], 0, "It links evidence to claim.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf6q2", "A good claim is...", ["Specific and supported by data", "Vague", "Unrelated to data", "Only an opinion"], 0, "Claims must be evidence-backed.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf6q3", "An implication is...", ["What follows if the claim is correct", "A control", "A method", "A reference"], 0, "Implications extend a claim.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf6q4", "Why note limits?", ["They set confidence in the conclusions", "They hide the results", "They are required decoration", "They replace evidence"], 0, "Limits calibrate confidence.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf6q5", "#Strength marks...", ["A strong aspect of the study", "A weakness", "A term", "A gap"], 0, "Credit what is done well.")
+```
+
+## Group challenge: Write the Discussion
+
+**Steps**
+
+1. Choose the study's three most important claims.
+2. For each, write claim, evidence and reasoning.
+3. Add one limit and one implication.
+
+**What to submit:** a one-page Discussion.
+
+## Portfolio and evaluation
+
+- **Portfolio artifact:** your own CER Discussion paragraph.
+- **Source log entry:** a source that supports or challenges a claim, with a 2–3 sentence reliability note.
+- **Peer/self evaluation:** three-item form.
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("sf6-reflect", "Which claim is best supported, and which is least supported?")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Every claim needs evidence and reasoning.
+- Name limits and implications.
+:::

@@ -1,0 +1,113 @@
+---
+title: "Sand Fly Module 1: Getting Started"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+**CREATE step: Consider.** Activate what you already know about *Leishmania*, sand flies and gut microbes before reading the article. You also learn how to judge whether a source is reliable.
+
+## Learning outcomes
+
+By the end of this module, you should be able to:
+
+- Build a concept map of what you know and what you wonder about the topic.
+- Describe the five steps of C.R.E.A.T.E.
+- Apply four questions to judge the reliability of a source.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("sf1-todo", ["Read the section introduction", "Complete the Perusall pre-class assignment", "Bring your concept map draft to class", "Start your source log"])
+```
+
+## Perusall pre-class assignment
+
+Annotate the assigned background reading using `#Concept`, `#Known`, `#Gap` and `#Question`. In class, your tags seed the Concept Map Showdown.
+
+## Background: key concepts
+
+- **Leishmaniasis** is a disease caused by *Leishmania* parasites.
+- **Sand flies** are the insect vectors that carry the parasite between hosts.
+- **Gut microbiota** are the microbes living in an insect's gut; they can influence whether a parasite survives there.
+- **Symbiont** means a microbe that lives in or on a host.
+
+## Methods spotlight
+
+**Concept mapping:** write concepts in boxes, connect them with labeled arrows, and flag gaps with `#Gap`.
+
+## Links and further reading
+
+- C.R.E.A.T.E. resources: <https://teachcreate.org>
+- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+
+## Week plans
+
+**Week 1 (50 min):** 10 min Consider warm-up; 25 min Concept Map Showdown in groups; 10 min gallery walk; 5 min confusion report (each student writes the muddiest point).
+
+**Week 2 (50 min):** 15 min source-reliability mini-lesson; 25 min group challenge; 10 min reflect and confusion report.
+
+## Instructor note
+
+Keep the article hidden until Module 2 so prior knowledge, not the paper, drives the concept maps.
+
+## Knowledge check
+
+```{ojs}
+//| echo: false
+quiz("sf1q1", "Which C.R.E.A.T.E. step comes first?", ["Read", "Consider", "Analyze", "Think of the next experiment"], 1, "Consider activates prior knowledge.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf1q2", "What is a sand fly's role in leishmaniasis?", ["Host reservoir only", "Insect vector", "Parasite food", "Vaccine"], 1, "Sand flies transmit the parasite.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf1q3", "Which is NOT one of the four source-reliability questions?", ["Who wrote it?", "Was it reviewed?", "How recent is it?", "How long is it?"], 3, "Length says nothing about reliability.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf1q4", "What does a #Gap tag mark?", ["A known fact", "Something missing from your knowledge", "A method", "A conclusion"], 1, "Gaps show what you still need to learn.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf1q5", "What is a gut symbiont?", ["A microbe living in a host's gut", "A drug", "A virus-free insect", "A parasite vaccine"], 0, "Symbionts live in or on a host.")
+```
+
+## Group challenge: Concept Map Showdown
+
+**Steps**
+
+1. Merge individual maps into one group map.
+2. Label every link with a verb.
+3. Mark at least three `#Gap` items and turn them into questions.
+
+**What to submit:** a photo or scan of the map with alt-text describing its main branches.
+
+## Portfolio and evaluation
+
+- **Portfolio artifact:** your revised concept map.
+- **Source log entry:** one source with a 2–3 sentence reliability note.
+- **Peer/self evaluation:** rate your group's collaboration with the three-item form.
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("sf1-reflect", "What surprised you? What do you most want to learn from the article?")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Consider your prior knowledge before you read.
+- Judge sources by author, review, recency and evidence.
+:::
