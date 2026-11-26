@@ -7,11 +7,10 @@ book:
   subtitle: "Course Workbook"
   author: "Carlos C. Goller"
   favicon: "images/Microbial Superheroes course logo.png"
-  sidebar:
-    logo: "images/Microbial Superheroes course logo.png"
-    style: docked
-    search: true
+  search: true
+  sidebar: false
   navbar:
+    logo: "images/Microbial Superheroes course logo.png"
     pinned: true
     collapse-below: lg
     left:
