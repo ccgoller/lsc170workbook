@@ -1,0 +1,31 @@
+# Knowledge Checks {.unnumbered}
+
+Jump straight to the self-check questions for each module. Answers give instant feedback and you can retry as often as you like.
+
+## Section 1: *Delftia* and malaria
+
+The questions are placed within each module, next to the text they review.
+
+| Module | Questions |
+|---|---|
+| [Module 1: Introduction to C.R.E.A.T.E. and *Delftia*](module-1.qmd) | 3 |
+| [Module 2: Introduction to the Article](module-2.qmd) | 2 |
+| [Module 3: Methods](module-3.qmd) | 2 |
+| [Module 4: Figure Analysis I](module-4.qmd) | 2 |
+| [Module 5: Figure Analysis II](module-5.qmd) | 2 |
+| [Module 6: Discussion and Implications](module-6.qmd) | 2 |
+| [Module 7: Next Experiment Panel and Grant Proposal](module-7.qmd) | 2 |
+
+## Section 2: Sand flies and *Leishmania*
+
+Each module has a **Knowledge check** section near the end. The links go directly to it.
+
+| Module | Questions | Direct link |
+|---|---|---|
+| [Sand Fly Module 1: Getting Started](sandfly-module-1.qmd) | 5 | [Go to knowledge check](sandfly-module-1.qmd#knowledge-check) |
+| [Sand Fly Module 2: Introduction to the Article](sandfly-module-2.qmd) | 5 | [Go to knowledge check](sandfly-module-2.qmd#knowledge-check) |
+| [Sand Fly Module 3: Methods](sandfly-module-3.qmd) | 5 | [Go to knowledge check](sandfly-module-3.qmd#knowledge-check) |
+| [Sand Fly Module 4: Figure Analysis I](sandfly-module-4.qmd) | 10 (Parts A and B) | [Go to knowledge check](sandfly-module-4.qmd#knowledge-check) |
+| [Sand Fly Module 5: Figure Analysis II](sandfly-module-5.qmd) | 10 (Parts A and B) | [Go to knowledge check](sandfly-module-5.qmd#knowledge-check) |
+| [Sand Fly Module 6: Discussion and Implications](sandfly-module-6.qmd) | 5 | [Go to knowledge check](sandfly-module-6.qmd#knowledge-check) |
+| [Sand Fly Module 7: Next Experiment Panel and Grant Proposal](sandfly-module-7.qmd) | 5 | [Go to knowledge check](sandfly-module-7.qmd#knowledge-check) |
