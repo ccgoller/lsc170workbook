@@ -37,7 +37,7 @@ Use `#Claim`, `#Evidence`, `#Limit`, `#MyLimit`, `#Strength` and `#Suggestion`. 
 
 ## Methods spotlight
 
-**Claim–evidence–reasoning (CER):** State the claim, cite specific data, then explain the link in your own words.
+**Claim–evidence–reasoning (CER):** State the claim, cite specific data, then explain the link in your own words (see [course techniques](appendix-methods.qmd#m-course)).
 
 ## Links and further reading
 

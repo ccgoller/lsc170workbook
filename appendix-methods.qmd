@@ -9,7 +9,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 
 ## A.1 Microbiology techniques
 
-### Isolating and culturing a bacterium
+### Isolating and culturing a bacterium {#m-culture}
 
 - **What it is:** growing a microbe from a sample (for example, a mosquito or sand fly gut) on a medium until single colonies can be picked and purified.
 - **What it measures:** whether a bacterium is present and can be grown; colonies can be counted as colony-forming units (CFU).
@@ -18,14 +18,14 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **Used in:** Section 1 (isolating TC1 from mosquitoes) and Section 2 (colonization of sand fly midguts).
 - **Resources:** @sharma2026 for *Delftia* background; the Methods of each anchor article for how isolates and CFU counts were handled.
 
-### Gram staining and microscopy
+### Gram staining and microscopy {#m-gram}
 
 - **What it is:** a stain that separates bacteria by cell-wall type. Gram-negative cells do not keep the purple dye. Cell shape is then viewed under a microscope.
 - **What it measures:** Gram reaction and cell shape (for *Delftia*: Gram-negative rods).
 - **Watch out for:** over-decolorizing, which can make Gram-positive cells look Gram-negative.
 - **Resources:** @smith2005 (ASM Microbe Library).
 
-### 16S rRNA gene sequencing
+### 16S rRNA gene sequencing {#m-16s}
 
 - **What it is:** reading the sequence of a conserved bacterial gene to place an isolate on the tree of life.
 - **What it measures:** relatedness; it was the basis for placing *Delftia* in its own genus (@wen1999) and for describing *D. tsuruhatensis* (@shigematsu2003).
@@ -34,7 +34,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 
 ## A.2 Vector and parasite experiments
 
-### Feeding insects bacteria, supernatant or a compound
+### Feeding insects bacteria, supernatant or a compound {#m-feeding}
 
 - **What it is:** giving mosquitoes or sand flies a bacterial suspension, the bacterium-free culture supernatant, or a purified compound in sugar or a blood meal, at a chosen time before or after infection.
 - **What it measures:** whether the bacterium, or something it secretes, changes infection.
@@ -43,7 +43,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **Watch out for:** timing (before or after infection) can change the result, so Cecilio et al. varied it.
 - **Resources:** the Methods sections of @huang2023 and @cecilio2025 (see References).
 
-### Infection assays and parasite counts
+### Infection assays and parasite counts {#m-infection}
 
 - **What it is:** infecting insects with a parasite (*Plasmodium falciparum* in Section 1; *Leishmania major* in Section 2), then dissecting tissues to count parasite stages. In mosquitoes these include oocysts on the midgut and sporozoites in the salivary glands.
 - **What it measures:** infection prevalence (how many insects are infected) and intensity (how many parasites per insect).
@@ -52,7 +52,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **Watch out for:** prevalence and intensity can change independently; report both.
 - **Resources:** CDC malaria life cycle [@cdc_malaria_lifecycle] (includes the mosquito stages: ookinete, oocyst, sporozoite); WHO leishmaniasis fact sheet [@who_leishmaniasis]; WHO malaria fact sheet [@who_malaria].
 
-### Gut colonization and fitness assays
+### Gut colonization and fitness assays {#m-colonization}
 
 - **What it is:** measuring whether a bacterium persists in the insect gut over time and whether it harms the host (for example, survival, egg laying, development).
 - **What it measures:** stability of colonization and cost to the host.
@@ -60,7 +60,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **Watch out for:** a fitness cost to the vector changes both the biology and the modeling.
 - **Resources:** the Results and Discussion of the two anchor articles (see References).
 
-### Dose-response and IC50
+### Dose-response and IC50 {#m-ic50}
 
 - **What it is:** testing a compound at several concentrations and finding the concentration that gives a half-maximal effect (IC50).
 - **What it measures:** potency. @huang2023 report an IC50 of 46 nM for harmane against oocyst formation.
@@ -69,14 +69,14 @@ For every technique ask: What is the **variable**? What is the **control**? What
 
 ## A.3 Chemistry and imaging
 
-### Identifying a secreted molecule (bioassay-guided fractionation)
+### Identifying a secreted molecule (bioassay-guided fractionation) {#m-fractionation}
 
 - **What it is:** separating a culture supernatant into fractions, testing each for activity, and repeating until a single active compound can be identified with analytical chemistry (typically mass spectrometry and nuclear magnetic resonance).
 - **What it measures:** which molecule is responsible for an effect.
 - **Used in:** Section 1 (identifying harmane as the TC1 inhibitor).
 - **Resources:** PubChem [@pubchem_harmane] (structure and properties of harmane, a methylated β-carboline); @huang2023.
 
-### Electron and light microscopy
+### Electron and light microscopy {#m-microscopy}
 
 - **What it is:** imaging bacteria or tissue at high magnification to see size, shape and location.
 - **What it measures:** morphology and where a microbe sits in the insect. @huang2023 report TC1 cells from 0.7 to 4.2 µm wide, some up to 24 µm long, suggesting a large space occupancy in mosquito cavities.
@@ -84,7 +84,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 
 ## A.4 Field studies and modeling
 
-### Contained field studies
+### Contained field studies {#m-field}
 
 - **What it is:** testing an intervention under realistic conditions, such as a sugar bait or treated breeding site, in a setting that prevents release into the environment.
 - **What it measures:** whether lab results hold up outside the lab.
@@ -93,7 +93,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **Watch out for:** small scale and local conditions limit generalization.
 - **Resources:** @huang2023, field studies section.
 
-### Mathematical modeling and R0
+### Mathematical modeling and R0 {#m-modeling}
 
 - **What it is:** a simulation of how infection spreads, using inputs such as biting rate and the proportion of insects carrying the bacterium. The basic reproduction number (R0) is the average number of new infections caused by one infection in a susceptible population; below 1 an outbreak fades.
 - **What it measures:** the predicted public-health effect of an intervention. @huang2023 report that introducing TC1 could avert about 15% of additional clinical malaria cases. @cecilio2025 model R0, accounting for the higher mortality of colonized, infected sand flies, and predict R0 falling below 1 in some modeled settings.
@@ -102,13 +102,13 @@ For every technique ask: What is the **variable**? What is the **control**? What
 
 ## A.5 Statistics and data analysis
 
-### Reading error bars, replicates and effect size
+### Reading error bars, replicates and effect size {#m-statistics}
 
 - **What it is:** judging how reliable and how large a difference is, not only whether it is "significant".
 - **What to check:** number of independent replicates; what error bars show (standard deviation, standard error or confidence interval); effect size; and whether the statistical test fits the data.
 - **Resources:** @cumming2007
 
-## A.6 Course techniques
+## A.6 Course techniques {#m-course}
 
 | Technique | Purpose | Where used |
 |---|---|---|

@@ -30,7 +30,7 @@ Use `#Evidence`, `#Inference`, `#EffectSize`, `#Assumption` and `#Question`. **H
 
 ## Background: key concepts
 
-- **Effect size:** how large a difference is, not just whether it exists.
+- **Effect size:** how large a difference is, not just whether it exists. See [reading error bars, replicates and effect size](appendix-methods.qmd#m-statistics) [@cumming2007].
 - **Inference:** a conclusion drawn from evidence.
 - **Assumption:** something taken as true without being tested.
 

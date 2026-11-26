@@ -32,6 +32,8 @@ Review the first three figures of the article and download the Supplementary Mat
 
 ## Data Analysis Sheet (DAS)
 
+See [Appendix A.6](appendix-methods.qmd#m-course) and [reading error bars, replicates and effect size](appendix-methods.qmd#m-statistics) [@cumming2007].
+
 <details><summary>Hint: Reading a figure</summary>
 Start with the axes and legend, then identify the control and experimental groups before describing any trend.
 </details>
