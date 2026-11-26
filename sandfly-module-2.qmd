@@ -1,0 +1,110 @@
+---
+title: "Sand Fly Module 2: Introduction to the Article"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+**CREATE step: Read.** Read the Introduction of Cecilio et al. (2025), identify what is known and what is not, and turn the authors' question into testable hypotheses.
+
+## Learning outcomes
+
+- Summarize the problem the authors address.
+- Separate what is known from the gap the study fills.
+- State a hypothesis and a prediction.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("sf2-todo", ["Read the title, abstract and Introduction", "Complete the Perusall assignment", "Draft one hypothesis and prediction", "Add the article to your source log"])
+```
+
+## Perusall pre-class assignment
+
+Use `#Known`, `#Gap`, `#Question`, `#Hypothesis` and `#Term`. **How it is used in class:** the best `#Hypothesis` annotations are posted on the Hypothesis Board.
+
+## Background: key concepts
+
+- **Hypothesis:** a testable explanation. **Prediction:** what you expect to observe if it is true.
+- **Vector competence:** how well an insect can acquire and transmit a parasite.
+- **Microbiota manipulation:** changing the gut microbes to alter infection.
+
+## Methods spotlight
+
+**Reading in chunks:** read a paragraph, sketch what was done, and define unfamiliar terms before moving on.
+
+## Links and further reading
+
+- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+- Compare with the first section: Huang et al. (2023), *Science*, <https://doi.org/10.1126/science.adf8141>.
+
+## Week plans
+
+**Week 1:** 10 min recap; 25 min Hypothesis Board (groups post and rank hypotheses); 10 min share-out; 5 min confusion report.
+
+**Week 2:** 10 min source-reliability check of the article; 30 min group challenge; 10 min reflect and confusion report.
+
+## Instructor note
+
+Push students to write predictions in "if…then…" form.
+
+## Knowledge check
+
+```{ojs}
+//| echo: false
+quiz("sf2q1", "What makes a statement a hypothesis?", ["It is testable", "It is certain", "It is a fact", "It is a method"], 0, "Hypotheses must be testable.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf2q2", "A prediction is...", ["What you expect if the hypothesis is true", "The conclusion", "A control", "A citation"], 0, "Predictions follow from hypotheses.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf2q3", "A #Gap annotation marks...", ["Something the field does not yet know", "A figure", "A typo", "A reference"], 0, "The gap motivates the study.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf2q4", "Why check whether a paper was peer reviewed?", ["It signals expert scrutiny", "It guarantees truth", "It shortens the paper", "It adds figures"], 0, "Review is one signal of reliability, not a guarantee.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf2q5", "Vector competence refers to...", ["An insect's ability to acquire and transmit a parasite", "A lab skill", "A drug dose", "A gene"], 0, "It measures transmission ability.")
+```
+
+## Group challenge: Hypothesis Board
+
+**Steps**
+
+1. Each member posts one hypothesis with a prediction.
+2. The group ranks them by testability.
+3. Pick one and name the evidence that would refute it.
+
+**What to submit:** the ranked board and your chosen hypothesis.
+
+## Portfolio and evaluation
+
+- **Portfolio artifact:** hypothesis and prediction statement.
+- **Source log entry:** the article, with a 2–3 sentence reliability note.
+- **Peer/self evaluation:** three-item form.
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("sf2-reflect", "Which gap in knowledge matters most, and why?")
+```
+
+::: {.takeaways}
+### Key takeaways
+- A good hypothesis is testable and yields a prediction.
+- The Introduction states what is known and the gap.
+:::

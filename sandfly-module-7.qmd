@@ -1,0 +1,116 @@
+---
+title: "Sand Fly Module 7: Next Experiment Panel and Grant Proposal"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+**CREATE step: Think of the next Experiment.** Propose a follow-up study that fills a gap or extends the article, then pitch it to a Mini-Grant Panel and submit your final portfolio.
+
+## Learning outcomes
+
+- Propose a feasible next experiment with a clear hypothesis.
+- Write a one-page Aims page.
+- Assemble and reflect on your portfolio.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("sf7-todo", ["Complete the Perusall assignment", "Draft your Aims page", "Prepare a 3-minute panel pitch", "Finalize your portfolio and source log"])
+```
+
+## Perusall pre-class assignment
+
+Use `#NextExperiment`, `#Gap`, `#Hypothesis`, `#Method` and `#Suggestion`. **How it is used in class:** the strongest `#NextExperiment` ideas seed grant groups.
+
+## Background: key concepts
+
+- **Aim:** a specific goal that tests a hypothesis.
+- **Feasibility:** whether the experiment can realistically be done.
+- **Significance:** why the answer matters.
+
+## Methods spotlight
+
+**Aims page structure:** background and gap; hypothesis; two aims, each with approach, controls, readout and expected outcome; significance.
+
+## Links and further reading
+
+- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+- C.R.E.A.T.E. resources: <https://teachcreate.org>
+
+## Week plans
+
+**Week 1:** 10 min Aims page model; 30 min draft in groups with peer feedback; 10 min confusion report.
+
+**Week 2:** 35 min Mini-Grant Panel (each group pitches 3 minutes, panel questions 2 minutes); 10 min portfolio wrap-up; 5 min reflect.
+
+## Instructor note
+
+Panelists should rate feasibility, significance and clarity; share feedback in writing.
+
+## Knowledge check
+
+```{ojs}
+//| echo: false
+quiz("sf7q1", "A good aim is...", ["Specific and testable", "Broad and vague", "Already answered", "Without controls"], 0, "Aims must be testable.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf7q2", "Feasibility asks...", ["Can this realistically be done?", "Is it famous?", "Is it long?", "Is it cited?"], 0, "Plans must be doable.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf7q3", "A next experiment should...", ["Fill a gap or extend the paper", "Repeat Figure 1 exactly", "Ignore the findings", "Skip controls"], 0, "It builds on what is known.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf7q4", "Every aim should list...", ["Controls and a readout", "Only a title", "Only costs", "Only authors"], 0, "These make the aim evaluable.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf7q5", "Significance explains...", ["Why the answer matters", "How long it takes", "Who funds it", "The font"], 0, "It justifies the work.")
+```
+
+## Group challenge: Mini-Grant Panel
+
+**Steps**
+
+1. Pick a gap from your portfolio.
+2. Write a hypothesis and two aims.
+3. Pitch to the panel and respond to questions.
+
+**What to submit:** the Aims page and your panel notes.
+
+## Portfolio and evaluation
+
+Final portfolio is scored on **Analysis of data, Reliable sources, Organization and clarity, Reflection**.
+
+- **Portfolio artifact:** Aims page plus all earlier checkpoints.
+- **Source log entry:** at least one source supporting your proposal, with a 2–3 sentence reliability note.
+- **Peer/self evaluation:** three-item form.
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("sf7-reflect", "How has your way of reading a scientific paper changed this term?")
+```
+
+::: {.takeaways}
+### Key takeaways
+- A strong next experiment answers a specific gap.
+- Pitch feasibility, significance and clarity.
+:::
+
+::: {.callout-note}
+Article: Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+:::

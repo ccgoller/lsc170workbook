@@ -29,6 +29,16 @@ book:
     - module-5.qmd
     - module-6.qmd
     - module-7.qmd
+    - part: "Section 2: Sand Flies and Leishmania"
+      chapters:
+        - sandfly-intro.qmd
+        - sandfly-module-1.qmd
+        - sandfly-module-2.qmd
+        - sandfly-module-3.qmd
+        - sandfly-module-4.qmd
+        - sandfly-module-5.qmd
+        - sandfly-module-6.qmd
+        - sandfly-module-7.qmd
     - references.qmd
 
 format:

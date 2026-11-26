@@ -1,0 +1,111 @@
+---
+title: "Sand Fly Module 3: Methods"
+---
+
+```{ojs}
+//| echo: false
+import {quiz, notes, checklist} from "./helpers.js"
+```
+
+## Module overview
+
+**CREATE step: Read.** Understand the methods before interpreting any data: what was measured, in what system, and with which controls.
+
+## Learning outcomes
+
+- Explain the purpose of each major method.
+- Identify controls and readouts.
+- Summarize one method on a Method Card.
+
+## Module to-do list
+
+```{ojs}
+//| echo: false
+checklist("sf3-todo", ["Read the Methods and any methods text in the Results", "Complete the Perusall assignment", "Choose a method for your Method Card", "Submit portfolio checkpoint 1"])
+```
+
+## Perusall pre-class assignment
+
+Use `#Method`, `#Term`, `#Question` and `#Limit`. This module is scored with the annotation quality rubric: **Accuracy, Evidence, Thinking, Interaction**. **How it is used in class:** annotations become the stock for the Methods Market.
+
+## Background: key concepts
+
+- **Control:** a comparison group that isolates the effect of the variable.
+- **Readout:** the measurement used to judge the outcome.
+- **Infection load:** the amount of parasite in an insect or host.
+- **Colonization:** establishment of a microbe in the gut.
+
+## Methods spotlight
+
+For every method ask: What is the question? What is the control? What is the readout? What could go wrong?
+
+## Links and further reading
+
+- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+- C.R.E.A.T.E. cheat sheets: <https://teachcreate.org>
+
+## Week plans
+
+**Week 1:** 10 min method sketching; 30 min Methods Market (groups "sell" one method); 10 min confusion report.
+
+**Week 2:** 10 min peer review of Method Cards; 30 min group challenge; 10 min reflect and confusion report.
+
+## Instructor note
+
+Check that students describe the readout, not only the procedure.
+
+## Knowledge check
+
+```{ojs}
+//| echo: false
+quiz("sf3q1", "What does a control do?", ["Isolates the effect of the variable", "Proves the hypothesis", "Replaces the readout", "Adds replicates"], 0, "Controls give a baseline.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf3q2", "A readout is...", ["The measurement used to judge an outcome", "A reference", "The title", "The author list"], 0, "It is what you actually measure.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf3q3", "Infection load is best described as...", ["The amount of parasite present", "The number of flies", "A gene", "A drug"], 0, "It quantifies infection.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf3q4", "A #Limit annotation notes...", ["A weakness or constraint of a method", "A strength", "A new idea", "A term"], 0, "Limits temper interpretation.")
+```
+
+```{ojs}
+//| echo: false
+quiz("sf3q5", "Why study methods before figures?", ["You cannot interpret data without knowing how it was made", "Figures are optional", "Methods are shorter", "Methods contain conclusions"], 0, "Methods determine what the data can show.")
+```
+
+## Group challenge: Methods Market and Method Card
+
+**Steps**
+
+1. Each group picks one method and builds a Method Card: question, system, controls, readout, limits.
+2. Present a 2-minute pitch at the market.
+3. Visit two other stalls and add one question to each card.
+
+**What to submit:** your Method Card.
+
+## Portfolio and evaluation
+
+- **Portfolio checkpoint 1:** Method Card plus a short summary of the methods.
+- **Source log entry:** a methods-related source with a 2–3 sentence reliability note.
+- **Peer/self evaluation:** three-item form.
+
+## Reflect
+
+```{ojs}
+//| echo: false
+notes("sf3-reflect", "Which method would you trust most, and what limit worries you?")
+```
+
+::: {.takeaways}
+### Key takeaways
+- Know the question, control and readout of each method.
+- Limits belong in your notes from the start.
+:::
