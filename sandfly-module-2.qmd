@@ -40,7 +40,7 @@ Use `#Known`, `#Gap`, `#Question`, `#Hypothesis` and `#Term`. **How it is used i
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+- Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
 - Compare with the first section: Huang et al. (2023), *Science*, <https://doi.org/10.1126/science.adf8141>.
 
 ## Week plans
@@ -107,4 +107,8 @@ notes("sf2-reflect", "Which gap in knowledge matters most, and why?")
 ### Key takeaways
 - A good hypothesis is testable and yields a prediction.
 - The Introduction states what is known and the gap.
+:::
+
+::: {.callout-note}
+Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
 :::

@@ -22,13 +22,15 @@ book:
     - index.qmd
     - about.qmd
     - background.qmd
-    - module-1.qmd
-    - module-2.qmd
-    - module-3.qmd
-    - module-4.qmd
-    - module-5.qmd
-    - module-6.qmd
-    - module-7.qmd
+    - part: "Section 1: Delftia and Malaria"
+      chapters:
+        - module-1.qmd
+        - module-2.qmd
+        - module-3.qmd
+        - module-4.qmd
+        - module-5.qmd
+        - module-6.qmd
+        - module-7.qmd
     - part: "Section 2: Sand Flies and Leishmania"
       chapters:
         - sandfly-intro.qmd
@@ -39,6 +41,8 @@ book:
         - sandfly-module-5.qmd
         - sandfly-module-6.qmd
         - sandfly-module-7.qmd
+  appendices:
+    - appendix-methods.qmd
     - references.qmd
 
 format:
