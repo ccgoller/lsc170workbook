@@ -1,3 +1,6 @@
 _book/
 .quarto/
 /.luarc.json
+
+/.quarto/
+**/*.quarto_ipynb

@@ -41,7 +41,7 @@ For every method ask: What is the question? What is the control? What is the rea
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+- Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
 - C.R.E.A.T.E. cheat sheets: <https://teachcreate.org>
 
 ## Week plans
@@ -108,4 +108,8 @@ notes("sf3-reflect", "Which method would you trust most, and what limit worries 
 ### Key takeaways
 - Know the question, control and readout of each method.
 - Limits belong in your notes from the start.
+:::
+
+::: {.callout-note}
+Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
 :::
