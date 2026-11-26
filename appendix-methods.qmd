@@ -118,7 +118,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 | Claim–evidence–reasoning (CER) | Write evidence-based arguments | Module 6; Sand Fly Module 6 |
 | Next-experiment aims page | Propose a testable follow-up | Module 7; Sand Fly Module 7 |
 
-C.R.E.A.T.E. method sources: @hoskins2007 and [@teachcreate].
+C.R.E.A.T.E. method sources: [@hoskins2007; @hoskins2011; @teachcreate].
 
 ## Add a new technique
 
