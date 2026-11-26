@@ -24,7 +24,7 @@ By the end of this module, you should be able to:
 
 ```{ojs}
 //| echo: false
-checklist("module-7-todo", ["Review the Delftia Book before the first session", "Complete the in-class activity and submit individually", "Read the guidelines to improve your proposals", "Work on peer reviews and group projects", "Complete the funding form for each proposal you score"])
+checklist("module-7-todo", ["Complete the in-class activity and submit individually", "Read the guidelines to improve your proposals", "Work on peer reviews and group projects", "Complete the funding form for each proposal you score"])
 ```
 
 ## Proposal outline

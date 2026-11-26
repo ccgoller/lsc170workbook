@@ -71,7 +71,6 @@ Propose a follow-up that fills a gap or extends the paper.
 
 - C.R.E.A.T.E. resources [@teachcreate]
 - @hoskins2007
-- Background on *Delftia*: @sharma2026
 - @cecilio2025
 
 ## Week plans

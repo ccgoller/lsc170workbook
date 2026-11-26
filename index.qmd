@@ -15,5 +15,5 @@ hint boxes, and type your notes into the text boxes — they are saved in your b
 :::
 
 ::: {.callout-note}
-Adapted from *The Delftia Book* [@sharma2026]. See the original for authoritative text and readings. Methods used across both sections are explained in [Appendix A](appendix-methods.qmd) and all sources are listed in [References](references.qmd).
+Methods used across both sections are explained in [Appendix A](appendix-methods.qmd) and all sources are listed in [References](references.qmd).
 :::

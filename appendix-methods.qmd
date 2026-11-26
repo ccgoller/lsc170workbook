@@ -16,7 +16,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **Typical controls:** uninoculated media; samples from untreated insects.
 - **Watch out for:** microbes that grow poorly in the lab, and contamination from the environment.
 - **Used in:** Section 1 (isolating TC1 from mosquitoes) and Section 2 (colonization of sand fly midguts).
-- **Resources:** @sharma2026 for *Delftia* background; the Methods of each anchor article for how isolates and CFU counts were handled.
+- **Resources:** the Methods of each anchor article for how isolates and CFU counts were handled.
 
 ### Gram staining and microscopy {#m-gram}
 

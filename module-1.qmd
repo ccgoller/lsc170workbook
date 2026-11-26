@@ -23,7 +23,7 @@ By the end of this module, you should be able to:
 
 ```{ojs}
 //| echo: false
-checklist("module-1-todo", ["Review the C.R.E.A.T.E. method and its features", "Review the background on Delftia in the Delftia Book", "Complete the first in-class activity"])
+checklist("module-1-todo", ["Review the C.R.E.A.T.E. method and its features", "Review the background on Delftia", "Complete the first in-class activity"])
 ```
 
 ## The C.R.E.A.T.E. method
