@@ -40,7 +40,7 @@ Use `#NextExperiment`, `#Gap`, `#Hypothesis`, `#Method` and `#Suggestion`. **How
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+- Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
 - C.R.E.A.T.E. resources: <https://teachcreate.org>
 
 ## Week plans
@@ -112,5 +112,5 @@ notes("sf7-reflect", "How has your way of reading a scientific paper changed thi
 :::
 
 ::: {.callout-note}
-Article: Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
 :::

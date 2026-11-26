@@ -36,6 +36,7 @@ Annotate the assigned background reading using `#Concept`, `#Known`, `#Gap` and 
 - **Sand flies** are the insect vectors that carry the parasite between hosts.
 - **Gut microbiota** are the microbes living in an insect's gut; they can influence whether a parasite survives there.
 - **Symbiont** means a microbe that lives in or on a host.
+- **Study system:** the article tests *D. tsuruhatensis* TC1 in *Phlebotomus duboscqi* sand flies infected with *Leishmania major*.
 
 ## Methods spotlight
 
@@ -44,7 +45,9 @@ Annotate the assigned background reading using `#Concept`, `#Known`, `#Gap` and 
 ## Links and further reading
 
 - C.R.E.A.T.E. resources: <https://teachcreate.org>
-- Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+- Hoskins, S. G., Stevens, L. M. & Nehm, R. H. (2007). Selective use of the primary literature transforms the classroom into a virtual laboratory. *Genetics* 176:1381–1389.
+- Background on *Delftia*: [The Delftia Book](https://ncstate.pressbooks.pub/delftia/)
+- Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
 
 ## Week plans
 
@@ -110,4 +113,8 @@ notes("sf1-reflect", "What surprised you? What do you most want to learn from th
 ### Key takeaways
 - Consider your prior knowledge before you read.
 - Judge sources by author, review, recency and evidence.
+:::
+
+::: {.callout-note}
+Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
 :::

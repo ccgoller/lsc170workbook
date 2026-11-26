@@ -4,7 +4,7 @@ title: "Section 2: Sand Flies and Leishmania"
 
 This section applies the **C.R.E.A.T.E.** method to a second article. Where the first section followed *Delftia* and malaria in mosquitoes, this one follows *Delftia tsuruhatensis* TC1 and *Leishmania* in sand flies.
 
-**Anchor article:** Cecilio, P. et al. (2025). *Nature Communications* 16:3571.
+**Anchor article:** Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
 
 ## How the section is organized
 
