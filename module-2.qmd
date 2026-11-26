@@ -76,5 +76,5 @@ quiz("m2q2", "What makes D. tsuruhatensis TC1 notable in this article?", ["It is
 :::
 
 ::: {.callout-note}
-Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+Article: @huang2023
 :::

@@ -41,7 +41,7 @@ Use `#Claim`, `#Evidence`, `#Limit`, `#MyLimit`, `#Strength` and `#Suggestion`. 
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025), Discussion.
+- @cecilio2025, Discussion.
 
 ## Week plans
 
@@ -110,5 +110,5 @@ notes("sf6-reflect", "Which claim is best supported, and which is least supporte
 :::
 
 ::: {.callout-note}
-Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
+Article: @cecilio2025
 :::

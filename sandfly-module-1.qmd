@@ -44,10 +44,10 @@ Annotate the assigned background reading using `#Concept`, `#Known`, `#Gap` and 
 
 ## Links and further reading
 
-- C.R.E.A.T.E. resources: <https://teachcreate.org>
-- Hoskins, S. G., Stevens, L. M. & Nehm, R. H. (2007). Selective use of the primary literature transforms the classroom into a virtual laboratory. *Genetics* 176:1381–1389.
-- Background on *Delftia*: [The Delftia Book](https://ncstate.pressbooks.pub/delftia/)
-- Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
+- C.R.E.A.T.E. resources [@teachcreate]
+- @hoskins2007
+- Background on *Delftia*: @sharma2026
+- @cecilio2025
 
 ## Week plans
 
@@ -116,5 +116,5 @@ notes("sf1-reflect", "What surprised you? What do you most want to learn from th
 :::
 
 ::: {.callout-note}
-Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
+Article: @cecilio2025
 :::

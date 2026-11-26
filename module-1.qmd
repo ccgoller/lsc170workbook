@@ -88,5 +88,5 @@ quiz("m1q3", "Which step of C.R.E.A.T.E. involves sketching experiments and defi
 :::
 
 ::: {.callout-note}
-Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+Article: @huang2023
 :::

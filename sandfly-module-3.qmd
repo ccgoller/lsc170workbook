@@ -41,8 +41,8 @@ For every method ask: What is the question? What is the control? What is the rea
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
-- C.R.E.A.T.E. cheat sheets: <https://teachcreate.org>
+- @cecilio2025
+- C.R.E.A.T.E. cheat sheets [@teachcreate]
 
 ## Week plans
 
@@ -111,5 +111,5 @@ notes("sf3-reflect", "Which method would you trust most, and what limit worries 
 :::
 
 ::: {.callout-note}
-Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
+Article: @cecilio2025
 :::
