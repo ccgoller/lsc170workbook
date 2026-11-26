@@ -38,6 +38,31 @@ Annotate the assigned background reading using `#Concept`, `#Known`, `#Gap` and 
 - **Symbiont** means a microbe that lives in or on a host.
 - **Study system:** the article tests *D. tsuruhatensis* TC1 in *Phlebotomus duboscqi* sand flies infected with *Leishmania major*.
 
+## The C.R.E.A.T.E. method
+
+**C**onsider, **R**ead, **E**lucidate hypotheses, **A**nalyze and interpret the data, **T**hink of the next **E**xperiment.
+
+::: {.create-step}
+### C — Consider
+Activate what you already know before you read. Concept-map the topic.
+:::
+::: {.create-step}
+### R — Read
+Read the paper in chunks, sketching the experiments and defining new terms.
+:::
+::: {.create-step}
+### E — Elucidate hypotheses
+State the question, the hypothesis, and the prediction behind each experiment.
+:::
+::: {.create-step}
+### A — Analyze and interpret the data
+Work through every figure: controls, readout, findings, assumptions, implications.
+:::
+::: {.create-step}
+### T — Think of the next Experiment
+Propose a follow-up that fills a gap or extends the paper.
+:::
+
 ## Methods spotlight
 
 **Concept mapping:** write concepts in boxes, connect them with labeled arrows, and flag gaps with `#Gap`.
