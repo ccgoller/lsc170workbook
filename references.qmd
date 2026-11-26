@@ -15,7 +15,7 @@ All sources cited in this book, generated from `references.bib`.
 Verified against published records:
 - Anchor articles: titles, the Huang et al. author list and DOI, the Cecilio et al. DOI, and the Cecilio study details used in this book (*P. duboscqi*, *L. major*, feeding design, infection prevalence, R0 modeling).
 - C.R.E.A.T.E.: Hoskins et al. (2007) volume, pages and DOI; Hoskins et al. (2011) title and DOI.
-- Taxonomy: Wen et al. (1999) title and DOI; Shigematsu et al. (2003) volume, pages and DOI; *The Delftia Book* authorship.
+- Taxonomy: Wen et al. (1999) title and DOI; Shigematsu et al. (2003) volume, pages and DOI.
 - Methods resources: Cumming et al. (2007), Janda & Abbott (2007), PubChem harman (CID 5281404), the WHO leishmaniasis fact sheet, and the CDC malaria life-cycle page.
 
 Not independently confirmed (check before publication):
