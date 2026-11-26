@@ -40,7 +40,7 @@ Use `#Evidence`, `#EffectSize`, `#Assumption`, `#Limit` and `#Question`. **How i
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025), Figures 4–6.
+- @cecilio2025, Figures 4–6.
 
 ## Week plans
 
@@ -139,5 +139,5 @@ notes("sf5-reflect", "Which assumption most affects the authors' conclusions?")
 :::
 
 ::: {.callout-note}
-Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
+Article: @cecilio2025
 :::

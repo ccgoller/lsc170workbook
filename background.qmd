@@ -1,8 +1,8 @@
 # Background on *Delftia* {.unnumbered}
 
-*Delftia* are Gram-negative, aerobic, rod-shaped bacteria first isolated from soil. *D. acidovorans* was reclassified from *Comamonas* into its own genus in 1999 (Wen et al., 1999), and *D. tsuruhatensis* was described from activated sludge in Japan in 2003 (Shigematsu et al., 2003). Species have properties relevant to gold precipitation, metal biosorption, and, in strain TC1, suppression of parasite development in insect vectors.
+*Delftia* are Gram-negative, aerobic, rod-shaped bacteria first isolated from soil. *D. acidovorans* was reclassified from *Comamonas* into its own genus in 1999 (@wen1999), and *D. tsuruhatensis* was described from activated sludge in Japan in 2003 (@shigematsu2003). Species have properties relevant to gold precipitation, metal biosorption, and, in strain TC1, suppression of parasite development in insect vectors.
 
-- **Section 1:** TC1 was isolated from *Anopheles stephensi* mosquitoes unable to sustain *Plasmodium falciparum*, and secretes the small molecule harmane that inhibits parasite development (Huang et al., 2023).
-- **Section 2:** TC1 colonizes the midgut of *Phlebotomus duboscqi* sand flies and affects the development of *Leishmania major* (Cecilio et al., 2025).
+- **Section 1:** TC1 was isolated from *Anopheles stephensi* mosquitoes unable to sustain *Plasmodium falciparum*, and secretes the small molecule harmane that inhibits parasite development (@huang2023).
+- **Section 2:** TC1 colonizes the midgut of *Phlebotomus duboscqi* sand flies and affects the development of *Leishmania major* (@cecilio2025).
 
-See the original Delftia Book (CC BY-NC 4.0) for the full text: <https://ncstate.pressbooks.pub/delftia/>. Full citations are in the [References](references.qmd).
+See the original *The Delftia Book* [@sharma2026] for the full text. Full citations are in the [References](references.qmd).

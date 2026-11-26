@@ -73,5 +73,5 @@ quiz("m7q2", "A strong follow-up proposal should…", ["Repeat the paper exactly
 :::
 
 ::: {.callout-note}
-Article: Huang et al. (2023), *Delftia tsuruhatensis* TC1 symbiont suppresses malaria transmission by anopheline mosquitoes, *Science*. <https://doi.org/10.1126/science.adf8141>
+Article: @huang2023
 :::

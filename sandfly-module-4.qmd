@@ -40,7 +40,7 @@ Use `#Evidence`, `#Inference`, `#EffectSize`, `#Assumption` and `#Question`. **H
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025), Figures 1–3.
+- @cecilio2025, Figures 1–3.
 
 ## Week plans
 
@@ -138,5 +138,5 @@ notes("sf4-reflect", "Do the data in Figures 1–3 support the authors' claims s
 :::
 
 ::: {.callout-note}
-Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
+Article: @cecilio2025
 :::

@@ -9,7 +9,7 @@ import {quiz, notes, checklist} from "./helpers.js"
 
 ## Module overview
 
-**CREATE step: Read.** Read the Introduction of Cecilio et al. (2025), identify what is known and what is not, and turn the authors' question into testable hypotheses.
+**CREATE step: Read.** Read the Introduction of @cecilio2025, identify what is known and what is not, and turn the authors' question into testable hypotheses.
 
 ## Learning outcomes
 
@@ -40,8 +40,8 @@ Use `#Known`, `#Gap`, `#Question`, `#Hypothesis` and `#Term`. **How it is used i
 
 ## Links and further reading
 
-- Cecilio, P. et al. (2025). *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria. *Nature Communications* 16:3571. <https://doi.org/10.1038/s41467-025-58769-4>
-- Compare with the first section: Huang et al. (2023), *Science*, <https://doi.org/10.1126/science.adf8141>.
+- @cecilio2025
+- Compare with the first section: @huang2023.
 
 ## Week plans
 
@@ -110,5 +110,5 @@ notes("sf2-reflect", "Which gap in knowledge matters most, and why?")
 :::
 
 ::: {.callout-note}
-Article: Cecilio, P. et al. (2025), *Leishmania* sand fly-transmission is disrupted by *Delftia tsuruhatensis* TC1 bacteria, *Nature Communications*. <https://doi.org/10.1038/s41467-025-58769-4>
+Article: @cecilio2025
 :::
