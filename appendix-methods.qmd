@@ -1,6 +1,6 @@
 # Appendix A: Methods and Techniques {.unnumbered}
 
-Brief explanations of techniques that appear in the two anchor articles and in the course activities. Each entry follows the same pattern so you can add to it: **What it is**, **What it measures**, **Typical controls**, **Watch out for**, and **Resources**. Add your own explanations and links under the *Add resources here* lines.
+Brief explanations of techniques that appear in the two anchor articles and in the course activities. Each entry follows the same pattern so you can add to it: **What it is**, **What it measures**, **Typical controls**, **Watch out for**, and **Resources**. Add your own explanations and links to any **Resources** line.
 
 ::: {.callout-tip}
 ## How to read a method
@@ -16,21 +16,21 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **Typical controls:** uninoculated media; samples from untreated insects.
 - **Watch out for:** microbes that grow poorly in the lab, and contamination from the environment.
 - **Used in:** Section 1 (isolating TC1 from mosquitoes) and Section 2 (colonization of sand fly midguts).
-- **Resources:** [The Delftia Book](https://ncstate.pressbooks.pub/delftia/). *Add resources here.*
+- **Resources:** [The Delftia Book](https://ncstate.pressbooks.pub/delftia/) for *Delftia* background; the Methods of each anchor article for how isolates and CFU counts were handled.
 
 ### Gram staining and microscopy
 
 - **What it is:** a stain that separates bacteria by cell-wall type. Gram-negative cells do not keep the purple dye. Cell shape is then viewed under a microscope.
 - **What it measures:** Gram reaction and cell shape (for *Delftia*: Gram-negative rods).
 - **Watch out for:** over-decolorizing, which can make Gram-positive cells look Gram-negative.
-- **Resources:** *Add resources here.*
+- **Resources:** Smith, A. C. & Hussey, M. A. (2005). Gram stain protocols. American Society for Microbiology (ASM Microbe Library).
 
 ### 16S rRNA gene sequencing
 
 - **What it is:** reading the sequence of a conserved bacterial gene to place an isolate on the tree of life.
 - **What it measures:** relatedness; it was the basis for placing *Delftia* in its own genus (Wen et al., 1999) and for describing *D. tsuruhatensis* (Shigematsu et al., 2003).
-- **Watch out for:** 16S alone may not separate closely related species.
-- **Resources:** NCBI BLAST, <https://blast.ncbi.nlm.nih.gov/>. *Add resources here.*
+- **Watch out for:** 16S alone may not separate closely related species; it usually identifies the genus well but is less reliable for species (Janda & Abbott, 2007).
+- **Resources:** NCBI BLAST, <https://blast.ncbi.nlm.nih.gov/> (choose Nucleotide BLAST, then the "16S ribosomal RNA sequences (Bacteria and Archaea)" database); Janda, J. M. & Abbott, S. L. (2007). 16S rRNA gene sequencing for bacterial identification in the diagnostic laboratory: pluses, perils, and pitfalls. <https://pmc.ncbi.nlm.nih.gov/articles/PMC2045242/>
 
 ## A.2 Vector and parasite experiments
 
@@ -39,30 +39,33 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **What it is:** giving mosquitoes or sand flies a bacterial suspension, the bacterium-free culture supernatant, or a purified compound in sugar or a blood meal, at a chosen time before or after infection.
 - **What it measures:** whether the bacterium, or something it secretes, changes infection.
 - **Typical controls:** insects fed sugar or medium only; supernatant versus live bacteria to separate secreted factors from live colonization.
-- **Watch out for:** timing (before or after infection) can change the result. Cecilio et al. (2025) varied it.
-- **Resources:** *Add resources here.*
+- **Example (Section 2):** Cecilio et al. (2025) fed *P. duboscqi* sand flies about 10^8 CFU/ml bacteria in 5% sucrose on cotton rolls for 24 h, at 1 week or 24 h before infection, or 5 or 8 days after. Comparisons included live versus dead TC1, GFP-labeled TC1, bacterium-free supernatant, *E. coli* and a bacterium isolated from sand fly midguts.
+- **Watch out for:** timing (before or after infection) can change the result, so Cecilio et al. varied it.
+- **Resources:** the Methods sections of Huang et al. (2023) and Cecilio et al. (2025) (see References).
 
 ### Infection assays and parasite counts
 
 - **What it is:** infecting insects with a parasite (*Plasmodium falciparum* in Section 1; *Leishmania major* in Section 2), then dissecting tissues to count parasite stages. In mosquitoes these include oocysts on the midgut and sporozoites in the salivary glands.
 - **What it measures:** infection prevalence (how many insects are infected) and intensity (how many parasites per insect).
 - **Typical controls:** untreated, infected insects; a different bacterium or a non-colonized group.
+- **Example (Section 2):** sand flies were infected with *L. major* by artificial membrane feeding. In one experiment infection prevalence was 30.9% in bacteria-fed flies versus 51.2% in controls (relative risk 0.65) (Cecilio et al., 2025).
 - **Watch out for:** prevalence and intensity can change independently; report both.
-- **Resources:** WHO malaria fact sheet, <https://www.who.int/news-room/fact-sheets/detail/malaria>; WHO leishmaniasis fact sheet, <https://www.who.int/news-room/fact-sheets/detail/leishmaniasis>. *Add resources here.*
+- **Resources:** CDC malaria life cycle (includes the mosquito stages: ookinete, oocyst, sporozoite), <https://www.cdc.gov/malaria/php/surveillance/appendix-a-malaria-lifecycle.html>; WHO leishmaniasis fact sheet, <https://www.who.int/news-room/fact-sheets/detail/leishmaniasis>; WHO malaria fact sheet, <https://www.who.int/news-room/fact-sheets/detail/malaria>.
 
 ### Gut colonization and fitness assays
 
 - **What it is:** measuring whether a bacterium persists in the insect gut over time and whether it harms the host (for example, survival, egg laying, development).
 - **What it measures:** stability of colonization and cost to the host.
-- **Why it matters:** a candidate control agent must persist and should not harm the vector. Huang et al. (2023) report that TC1 stably populates the mosquito gut without a fitness cost.
-- **Resources:** *Add resources here.*
+- **Why it matters:** a candidate control agent must persist and should not harm the vector. Huang et al. (2023) report that TC1 stably populates the mosquito gut without a fitness cost. Cecilio et al. (2025) report that TC1 colonizes the sand fly midgut, likely disrupts the gut microbiota (dysbiosis), and that colonized, *Leishmania*-infected flies show increased mortality.
+- **Watch out for:** a fitness cost to the vector changes both the biology and the modeling.
+- **Resources:** the Results and Discussion of the two anchor articles (see References).
 
 ### Dose-response and IC50
 
 - **What it is:** testing a compound at several concentrations and finding the concentration that gives a half-maximal effect (IC50).
 - **What it measures:** potency. Huang et al. (2023) report an IC50 of 46 nM for harmane against oocyst formation.
 - **Watch out for:** a lower IC50 means a more potent compound; units matter (nM versus µM).
-- **Resources:** *Add resources here.*
+- **Resources:** the harmane dose-response data in Huang et al. (2023); PubChem entry for harmane (listed as "harman"), <https://pubchem.ncbi.nlm.nih.gov/compound/5281404>.
 
 ## A.3 Chemistry and imaging
 
@@ -71,13 +74,13 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **What it is:** separating a culture supernatant into fractions, testing each for activity, and repeating until a single active compound can be identified with analytical chemistry (typically mass spectrometry and nuclear magnetic resonance).
 - **What it measures:** which molecule is responsible for an effect.
 - **Used in:** Section 1 (identifying harmane as the TC1 inhibitor).
-- **Resources:** PubChem, <https://pubchem.ncbi.nlm.nih.gov/> (search "harmane"). *Add resources here.*
+- **Resources:** PubChem, <https://pubchem.ncbi.nlm.nih.gov/compound/5281404> (structure and properties of harmane, a methylated β-carboline); Huang et al. (2023).
 
 ### Electron and light microscopy
 
 - **What it is:** imaging bacteria or tissue at high magnification to see size, shape and location.
-- **What it measures:** morphology and where a microbe sits in the insect.
-- **Resources:** *Add resources here.*
+- **What it measures:** morphology and where a microbe sits in the insect. Huang et al. (2023) report TC1 cells from 0.7 to 4.2 µm wide, some up to 24 µm long, suggesting a large space occupancy in mosquito cavities.
+- **Resources:** Fig. 1 of Huang et al. (2023); Cecilio et al. (2025) for GFP-labeled TC1 in sand fly guts.
 
 ## A.4 Field studies and modeling
 
@@ -86,15 +89,16 @@ For every technique ask: What is the **variable**? What is the **control**? What
 - **What it is:** testing an intervention under realistic conditions, such as a sugar bait or treated breeding site, in a setting that prevents release into the environment.
 - **What it measures:** whether lab results hold up outside the lab.
 - **Used in:** Section 1 (Burkina Faso).
+- **Details:** TC1 was introduced orally from sugar baits or by seeding breeding sites, and mosquitoes carrying it suppressed development of locally circulating *P. falciparum* (Huang et al., 2023).
 - **Watch out for:** small scale and local conditions limit generalization.
-- **Resources:** *Add resources here.*
+- **Resources:** Huang et al. (2023), field studies section.
 
 ### Mathematical modeling and R0
 
 - **What it is:** a simulation of how infection spreads, using inputs such as biting rate and the proportion of insects carrying the bacterium. The basic reproduction number (R0) is the average number of new infections caused by one infection in a susceptible population; below 1 an outbreak fades.
-- **What it measures:** the predicted public-health effect of an intervention. Huang et al. (2023) report a modeled reduction of about 15% of additional clinical malaria cases.
+- **What it measures:** the predicted public-health effect of an intervention. Huang et al. (2023) report that introducing TC1 could avert about 15% of additional clinical malaria cases. Cecilio et al. (2025) model R0, accounting for the higher mortality of colonized, infected sand flies, and predict R0 falling below 1 in some modeled settings.
 - **Watch out for:** outputs depend on assumptions. Audit them (see Sand Fly Module 5).
-- **Resources:** *Add resources here.*
+- **Resources:** the modeling sections and supplements of both anchor articles (see References).
 
 ## A.5 Statistics and data analysis
 
@@ -102,7 +106,7 @@ For every technique ask: What is the **variable**? What is the **control**? What
 
 - **What it is:** judging how reliable and how large a difference is, not only whether it is "significant".
 - **What to check:** number of independent replicates; what error bars show (standard deviation, standard error or confidence interval); effect size; and whether the statistical test fits the data.
-- **Resources:** *Add resources here.*
+- **Resources:** Cumming, G., Fidler, F. & Vaux, D. L. (2007). Error bars in experimental biology. *Journal of Cell Biology* 177(1), 7–11. <https://pmc.ncbi.nlm.nih.gov/articles/PMC2064100/>
 
 ## A.6 Course techniques
 
