@@ -28,7 +28,7 @@ checklist("module-2-todo", ["Review the Delftia background before the first sess
 
 ## Why this article?
 
-The paper, published in *Science* in 2023, describes a naturally occurring, non-genetically modified symbiotic bacterium, *D. tsuruhatensis* TC1, isolated from mosquitoes unable to sustain *Plasmodium falciparum* development.
+The paper, published in *Science* in 2023 [@huang2023], describes a naturally occurring, non-genetically modified symbiotic bacterium, *D. tsuruhatensis* TC1, isolated from mosquitoes unable to sustain *Plasmodium falciparum* development.
 
 ## Read the title in pieces
 
