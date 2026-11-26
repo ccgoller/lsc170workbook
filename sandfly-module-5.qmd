@@ -30,7 +30,7 @@ Use `#Evidence`, `#EffectSize`, `#Assumption`, `#Limit` and `#Question`. **How i
 
 ## Background: key concepts
 
-- **R0:** the average number of new infections caused by one infection in a susceptible population. If R0 is below 1, an outbreak fades.
+- **R0:** the average number of new infections caused by one infection in a susceptible population. If R0 is below 1, an outbreak fades. See [modeling and R0](appendix-methods.qmd#m-modeling) [@cecilio2025].
 - **Model assumption:** an input or simplification the model depends on.
 - **Field vs lab:** results in controlled conditions may not hold in nature.
 

@@ -42,6 +42,7 @@ Use `#Known`, `#Gap`, `#Question`, `#Hypothesis` and `#Term`. **How it is used i
 
 - @cecilio2025
 - Compare with the first section: @huang2023.
+- Methods overview: [Appendix A](appendix-methods.qmd).
 
 ## Week plans
 

@@ -28,7 +28,7 @@ checklist("module-3-todo", ["Review the Delftia background and the article's met
 
 ## Key themes in the methods
 
-From the abstract, the study (1) isolates TC1 from mosquitoes, (2) tests inhibition of early *Plasmodium* development, (3) identifies a secreted small-molecule inhibitor, **harmane**, (4) tests whether TC1 colonizes the mosquito gut and affects fitness, and (5) uses contained field studies in Burkina Faso and modeling.
+From the abstract, the study (1) [isolates TC1](appendix-methods.qmd#m-culture) from mosquitoes, (2) tests inhibition of early *Plasmodium* development ([infection assays](appendix-methods.qmd#m-infection), [dose-response](appendix-methods.qmd#m-ic50)), (3) identifies a secreted small-molecule inhibitor, **harmane** ([fractionation](appendix-methods.qmd#m-fractionation)), (4) tests whether TC1 [colonizes the mosquito gut and affects fitness](appendix-methods.qmd#m-colonization), and (5) uses [contained field studies](appendix-methods.qmd#m-field) in Burkina Faso and [modeling](appendix-methods.qmd#m-modeling) [@huang2023]. See [Appendix A](appendix-methods.qmd) for each technique.
 
 ::: {.callout-important}
 Always ask of each method: What is the **control**? What is the **readout**? What is the **variable**?

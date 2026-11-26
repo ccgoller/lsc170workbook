@@ -37,7 +37,7 @@ Use `#Method`, `#Term`, `#Question` and `#Limit`. This module is scored with the
 
 ## Methods spotlight
 
-For every method ask: What is the question? What is the control? What is the readout? What could go wrong?
+For every method ask: What is the question? What is the control? What is the readout? What could go wrong? Explanations of the techniques are in [Appendix A](appendix-methods.qmd), for example [culturing](appendix-methods.qmd#m-culture), [feeding insects](appendix-methods.qmd#m-feeding), [infection assays](appendix-methods.qmd#m-infection) and [colonization and fitness](appendix-methods.qmd#m-colonization) [@cecilio2025].
 
 ## Links and further reading
 

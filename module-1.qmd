@@ -58,10 +58,10 @@ quiz("m1q1", "Which step asks you to design a follow-up study?", ["Consider", "R
 
 ## What is *Delftia*?
 
-The genus *Delftia* was first identified when *Delftia acidovorans* was isolated from soil in Delft, Netherlands. It was classified as *Pseudomonas acidovorans* in 1926, reclassified as *Comamonas acidovorans* in 1987, and placed in its own genus in 1999 using 16S rRNA sequencing. *D. tsuruhatensis* was described in 2003 from activated sludge in Japan.
+The genus *Delftia* was first identified when *Delftia acidovorans* was isolated from soil in Delft, Netherlands. It was classified as *Pseudomonas acidovorans* in 1926, reclassified as *Comamonas acidovorans* in 1987, and placed in its own genus in 1999 using [16S rRNA sequencing](appendix-methods.qmd#m-16s) [@wen1999]. *D. tsuruhatensis* was described in 2003 from activated sludge in Japan [@shigematsu2003].
 
 <details><summary>Hint: Gram-negative, aerobic, rod-shaped</summary>
-*Delftia* need oxygen, look like rods under the microscope, and do not stain purple in a Gram stain.
+*Delftia* need oxygen, look like rods under the microscope, and do not stain purple in a [Gram stain](appendix-methods.qmd#m-gram) [@smith2005].
 </details>
 
 ```{ojs}

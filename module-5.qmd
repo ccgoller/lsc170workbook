@@ -60,7 +60,7 @@ quiz("m5q2", "Why connect later figures to earlier ones?", ["To skip the methods
 
 ::: {.takeaways}
 ### Key takeaways
-- Use the same Data Analysis Sheet approach for every remaining figure.
+- Use the same Data Analysis Sheet approach for every remaining figure (see [Appendix A.6](appendix-methods.qmd#m-course)). For this module's methods, see [colonization and fitness](appendix-methods.qmd#m-colonization), [field studies](appendix-methods.qmd#m-field) and [modeling and R0](appendix-methods.qmd#m-modeling).
 - Link each new result back to Figures 1-3.
 :::
 
